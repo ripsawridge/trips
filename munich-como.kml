@@ -5,7 +5,7 @@
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -81,7 +81,7 @@
 	<StyleMap id="msn_ylw-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -91,11 +91,11 @@
 	<StyleMap id="msn_ylw-pushpin3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_flag">
@@ -147,7 +147,7 @@
 	<StyleMap id="msn_homegardenbusiness">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness5</styleUrl>
+			<styleUrl>#sn_homegardenbusiness7</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -190,11 +190,11 @@
 	<StyleMap id="msn_ylw-pushpin4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_flag">
@@ -204,7 +204,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_flag1</styleUrl>
+			<styleUrl>#sh_flag0</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_flag0">
@@ -218,27 +218,14 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff8c2a</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
 	<StyleMap id="msn_ylw-pushpin5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sh_ylw-pushpin1">
@@ -255,19 +242,6 @@
 		<PolyStyle>
 			<color>80fffd5e</color>
 		</PolyStyle>
-	</Style>
-	<Style id="s_ylw-pushpin13">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff8c2a</color>
-			<width>5</width>
-		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin2">
 		<IconStyle>
@@ -314,6 +288,27 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_homegardenbusiness0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="sh_ylw-pushpin4">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -325,7 +320,22 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_homegardenbusiness0">
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff973d</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness1">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -347,6 +357,17 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<Style id="sn_homegardenbusiness2">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="sh_homegardenbusiness1">
 		<IconStyle>
 			<scale>1.4</scale>
@@ -358,16 +379,6 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin17</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="sn_ylw-pushpin5">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -388,7 +399,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_flag0">
@@ -398,7 +409,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_flag2</styleUrl>
+			<styleUrl>#sh_flag1</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="s_ylw-pushpin_hl2">
@@ -410,7 +421,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin5">
+	<Style id="sh_ylw-pushpin6">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -423,25 +434,14 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_flag0">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<StyleMap id="msn_ylw-pushpin8">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_ylw-pushpin6">
@@ -458,24 +458,14 @@
 	<StyleMap id="msn_ylw-pushpin9">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_flag1">
+	<Style id="sh_flag0">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -486,7 +476,7 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin6">
+	<Style id="sh_ylw-pushpin7">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -500,11 +490,11 @@
 	<StyleMap id="msn_ylw-pushpin10">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin11">
@@ -514,10 +504,10 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin7">
+	<Style id="sh_ylw-pushpin8">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -530,7 +520,7 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin8">
+	<Style id="sh_ylw-pushpin9">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -555,29 +545,18 @@
 	<StyleMap id="msn_homegardenbusiness0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness1</styleUrl>
+			<styleUrl>#sn_homegardenbusiness3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness5</styleUrl>
+			<styleUrl>#sh_homegardenbusiness7</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_homegardenbusiness1">
+	<Style id="sn_homegardenbusiness3">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_flag2">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -592,12 +571,27 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff973d</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_flag1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin9">
+	<Style id="sn_ylw-pushpin9">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -628,17 +622,28 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<StyleMap id="msn_homegardenbusiness1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness0</styleUrl>
+			<styleUrl>#sn_homegardenbusiness1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness4</styleUrl>
+			<styleUrl>#sh_homegardenbusiness5</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin12">
+	<Style id="sh_ylw-pushpin13">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -651,7 +656,7 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin13">
+	<Style id="sh_ylw-pushpin14">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -662,7 +667,7 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin14">
+	<Style id="sh_ylw-pushpin15">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -675,17 +680,7 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_flag1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_flag1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_flag0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin9">
+	<Style id="sn_ylw-pushpin10">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -700,7 +695,7 @@
 			<color>80ff19ea</color>
 		</PolyStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin10">
+	<Style id="sn_ylw-pushpin11">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -715,7 +710,7 @@
 			<color>80fffd5e</color>
 		</PolyStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin11">
+	<Style id="sn_ylw-pushpin12">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -728,7 +723,7 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_homegardenbusiness2">
+	<Style id="sn_homegardenbusiness4">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -749,7 +744,7 @@
 			<styleUrl>#sh_ylw-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin15">
+	<Style id="sh_ylw-pushpin16">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -765,34 +760,34 @@
 	<StyleMap id="msn_homegardenbusiness2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness4</styleUrl>
+			<styleUrl>#sn_homegardenbusiness2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness6</styleUrl>
+			<styleUrl>#sh_homegardenbusiness2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_homegardenbusiness3">
+	<Style id="sh_ylw-pushpin17">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.3</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<StyleMap id="msn_homegardenbusiness3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness8</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sh_homegardenbusiness2">
 		<IconStyle>
 			<scale>1.4</scale>
@@ -804,7 +799,39 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_homegardenbusiness4">
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_homegardenbusiness5">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness3">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness6">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -826,17 +853,17 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<StyleMap id="msn_flag2">
+	<StyleMap id="msn_flag1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_flag2</styleUrl>
+			<styleUrl>#sn_flag1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_flag</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin16">
+	<Style id="sh_ylw-pushpin18">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -847,6 +874,16 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="s_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -856,27 +893,52 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_homegardenbusiness3">
+	<StyleMap id="msn_homegardenbusiness4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness2</styleUrl>
+			<styleUrl>#sn_homegardenbusiness4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_homegardenbusiness</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_homegardenbusiness4">
+	<StyleMap id="msn_homegardenbusiness5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness3</styleUrl>
+			<styleUrl>#sn_homegardenbusiness5</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_homegardenbusiness0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ylw-pushpin12">
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>806a3fff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -889,49 +951,6 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_flag1">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin13">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin14">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin13">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin11</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="sn_ylw-pushpin15">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -939,58 +958,6 @@
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>fff630ff</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin14">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin16</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin03">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin33">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin9">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_homegardenbusiness3">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<ListStyle>
 		</ListStyle>
@@ -1009,16 +976,72 @@
 	<StyleMap id="msn_ylw-pushpin15">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin_hl">
+	<Style id="sn_ylw-pushpin17">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff8c2a</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fff630ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_homegardenbusiness6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -1028,10 +1051,61 @@
 			<color>80ffffff</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>806a3fff</color>
+			<color>803fff60</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Style id="sh_homegardenbusiness4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_homegardenbusiness5">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -1053,37 +1127,37 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin16">
+	<StyleMap id="msn_ylw-pushpin19">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin5</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_homegardenbusiness5">
+	<StyleMap id="msn_homegardenbusiness7">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness6</styleUrl>
+			<styleUrl>#sn_homegardenbusiness8</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness3</styleUrl>
+			<styleUrl>#sh_homegardenbusiness4</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_homegardenbusiness6">
+	<StyleMap id="msn_homegardenbusiness8">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_homegardenbusiness</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness2</styleUrl>
+			<styleUrl>#sh_homegardenbusiness3</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_homegardenbusiness5">
+	<Style id="sn_homegardenbusiness7">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -1094,7 +1168,7 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_homegardenbusiness6">
+	<Style id="sn_homegardenbusiness8">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -1105,7 +1179,7 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="s_ylw-pushpin0">
+	<Style id="sn_ylw-pushpin21">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -1113,14 +1187,10 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<LineStyle>
-			<color>80ffffff</color>
-		</LineStyle>
-		<PolyStyle>
-			<color>806a3fff</color>
-		</PolyStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin17">
+	<Style id="sh_ylw-pushpin19">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -1134,53 +1204,6 @@
 		<PolyStyle>
 			<color>803fff60</color>
 		</PolyStyle>
-	</Style>
-	<Style id="sh_homegardenbusiness5">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin14</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin17">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>80ffffff</color>
-		</LineStyle>
-		<PolyStyle>
-			<color>803fff60</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_flag2">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="sh_homegardenbusiness6">
 		<IconStyle>
@@ -1193,7 +1216,60 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin18">
+	<Style id="sh_homegardenbusiness7">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_flag1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness8">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -1204,7 +1280,7 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl0">
+	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -1213,7 +1289,35 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin18">
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff8c2a</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>806a3fff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin22">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -1228,10 +1332,10 @@
 			<color>80ff19ea</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin18">
+	<StyleMap id="msn_ylw-pushpin22">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1240,29 +1344,10 @@
 	</StyleMap>
 	<Folder>
 		<name>Munich to Como</name>
-		<open>1</open>
+		<description>Swiss Maps http://map.geo.admin.ch/?X=137102.51&amp;Y=763774.91&amp;zoom=8&amp;lang=en&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</description>
 		<Placemark>
-			<name>Schnann</name>
-			<LookAt>
-				<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-				<longitude>10.38494743398377</longitude>
-				<latitude>47.15622810675413</latitude>
-				<altitude>0</altitude>
-				<heading>7.51317801929526</heading>
-				<tilt>28.1524335257987</tilt>
-				<range>9774.046682182567</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>10.38120867672164,47.15303470835423,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Untitled Path</name>
-			<styleUrl>#m_ylw-pushpin03</styleUrl>
+			<name>Crow flies line</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -1270,220 +1355,25 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
-			<name>Garmisch</name>
-			<LookAt>
-				<longitude>11.16336065987797</longitude>
-				<latitude>47.39385270558428</latitude>
-				<altitude>0</altitude>
-				<heading>0.4743092460902765</heading>
-				<tilt>0.4566902342075355</tilt>
-				<range>181209.4535282165</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin33</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>11.08498248886136,47.48734065089631,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Bormio</name>
-			<LookAt>
-				<longitude>10.25249022082517</longitude>
-				<latitude>46.35485198579935</latitude>
-				<altitude>0</altitude>
-				<heading>-0.1877920800927564</heading>
-				<tilt>0.4566127199678021</tilt>
-				<range>180124.6816487215</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin33</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>10.3599750083738,46.4671265144588,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Merano</name>
-			<LookAt>
-				<longitude>11.10228726138017</longitude>
-				<latitude>46.83531050110617</latitude>
-				<altitude>0</altitude>
-				<heading>0.4295847099073436</heading>
-				<tilt>0.4565441673213166</tilt>
-				<range>179891.3730785287</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin33</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>11.12983813662137,46.67275424767789,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>End</name>
-			<LookAt>
-				<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-				<longitude>9.079245423112159</longitude>
-				<latitude>45.80874984968335</latitude>
-				<altitude>0</altitude>
-				<heading>-1.052772334589136</heading>
-				<tilt>2.158407285738163</tilt>
-				<range>15847.60744734448</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin33</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>9.079245423112159,45.80874984968335,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Start</name>
-			<LookAt>
-				<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-				<longitude>11.57543978423758</longitude>
-				<latitude>48.13747231171141</latitude>
-				<altitude>0</altitude>
-				<heading>0.7850859682053932</heading>
-				<tilt>28.49103824192579</tilt>
-				<range>288.4486232511795</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin33</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>11.57545534893417,48.13740424172546,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Hoher Riffler</name>
-			<LookAt>
-				<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-				<longitude>10.38609416362302</longitude>
-				<latitude>47.12973814195946</latitude>
-				<altitude>0</altitude>
-				<heading>7.514017922991267</heading>
-				<tilt>28.14217788652869</tilt>
-				<range>7352.211754616359</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_flag2</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>10.3704045128585,47.11596346506383,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Patteriol</name>
-			<LookAt>
-				<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-				<longitude>10.19334600119001</longitude>
-				<latitude>47.04575858685673</latitude>
-				<altitude>0</altitude>
-				<heading>-0.2653342664478909</heading>
-				<tilt>25.67849142734651</tilt>
-				<range>5619.94213515257</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_flag1</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>10.18753343981663,47.04295851511315,0</coordinates>
-			</Point>
-		</Placemark>
-		<Folder>
-			<name>Stage1</name>
-			<Placemark>
-				<name>Ehrwald to Tarrentonalm</name>
-				<styleUrl>#msn_ylw-pushpin5</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.92250124602118,47.40644784184613,0 10.9186862380365,47.3994763054593,0 10.91246541969539,47.39482569224918,0 10.90054104566703,47.38811994625259,0 10.88723189086471,47.37849731557609,0 10.87931273587187,47.37411885777634,0 10.86767929546848,47.37270064726523,0 10.85938259817866,47.37056915769487,0 10.85325235006942,47.36769182662397,0 10.84770834418281,47.36690144564184,0 10.84295811727998,47.36423400864977,0 10.84340796030267,47.36127449535461,0 10.8431751690451,47.36123062131386,0 10.84274042834092,47.3612931460923,0 10.83769613297644,47.36419521632774,0 10.83167370917704,47.36326391507804,0 10.82629722460785,47.36322300425905,0 10.82198978239891,47.36364725094005,0 10.82170000134166,47.36591278794418,0 10.82049951649777,47.36911537933088,0 10.81737607665732,47.37100566958656,0 10.81226533800426,47.37127543162928,0 10.79973629123293,47.37339350476615,0 10.7995754187112,47.37336167390008,0 10.79115914019034,47.37413351380213,0 10.79378096114737,47.37668488034423,0 10.78664036311068,47.37682485885565,0 10.78582170681762,47.37498298898096,0 10.78591962936515,47.37283801219441,0 10.79214347979424,47.36463375838441,0 10.78657756288837,47.36247950404302,0 10.78421837392263,47.361383881594,0 10.78377849431983,47.35910901635856,0 10.78163301501207,47.35428639471638,0 10.77874576672906,47.34957838756252,0 10.77655035046679,47.34889809937789,0 10.77024788213983,47.34796668028589,0 10.76427835577149,47.35014304893522,0 10.75367783637657,47.35329340429032,0 10.74815241759439,47.35921438441429,0 10.74368327397292,47.35858522088014,0 10.73447669001146,47.36115806489885,0 10.73011363094121,47.35171307359691,0 10.72687778373153,47.3412273539123,0 10.72018981879321,47.33299775558619,0 10.72102732636175,47.33064101515495,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Tarrentonalm to Boden P1</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.6855595178822,47.3068429312745,0 10.68859103794126,47.30761299473487,0 10.69245410518652,47.3091359087637,0 10.69619037552359,47.30980107926422,0 10.70056198621254,47.31089669680539,0 10.70600493257025,47.31420562943163,0 10.70798083219073,47.31573079462169,0 10.7122338316003,47.31896202154481,0 10.72105553052959,47.32810816053099,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Tarrentonalm to Boden P2</name>
-				<styleUrl>#msn_ylw-pushpin17</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.68514914373927,47.30655464378059,0 10.68402790396169,47.30606177628881,0 10.68159136194274,47.30538744423476,0 10.67878519192711,47.30464325616798,0 10.67789527750232,47.30367680913582,0 10.67426575666496,47.30236987277904,0 10.67116396040612,47.30124684566205,0 10.66629444851558,47.30031903158205,0 10.66266264071205,47.29969346921282,0 10.66274574643923,47.29862648368196,0 10.66425832087887,47.29602578280532,0 10.66586917437748,47.2949133451895,0 10.66527466306606,47.29385951438779,0 10.66614866363519,47.2926429929482,0 10.66642703767941,47.2919046943588,0 10.66182490264123,47.29032551517519,0 10.65571883444463,47.28795044335686,0 10.64224837164996,47.28687424246232,0 10.62711031344583,47.2841090299455,0 10.61291133817204,47.2827974470284,0 10.60509978698319,47.28318181005561,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Boden to Wuerttemberger Hut</name>
-				<styleUrl>#msn_ylw-pushpin16</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.60330703832988,47.28200290453774,0 10.59917511104751,47.27691004675148,0 10.59544913517088,47.27312367737533,0 10.59528123187354,47.27262439658561,0 10.59085987022034,47.26551440111179,0 10.59278873898663,47.26191045193374,0 10.59114866479955,47.24940925386752,0 10.59163646336459,47.23649728588884,0 10.59238718497089,47.23300317569193,0 10.59609410850702,47.23026162832883,0 10.59068098016039,47.22876679281415,0 10.58662666384982,47.22705678113567,0 10.57915618214516,47.22717959155281,0 10.57013110557068,47.22601375634563,0 10.5616756121605,47.22299721437776,0 10.55479585393281,47.22004935407962,0 10.55065007740444,47.21270160629063,0 10.54558643133685,47.20941858807259,0 10.54158458801297,47.21043304900027,0 10.53511279999058,47.21031124810013,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Wuerttemberger to Ansbacher</name>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.53513100174948,47.21011114287906,0 10.52997113037327,47.21021065740043,0 10.52247859998815,47.20828978803872,0 10.51762179900708,47.2029866598146,0 10.51244316647496,47.20134787270074,0 10.50474793574601,47.20024086631023,0 10.49923062534823,47.19974565701592,0 10.49707741576648,47.19394950697055,0 10.49346295554424,47.19323810686616,0 10.489238287375,47.19304696291237,0 10.4814634638744,47.19770039598626,0 10.47695195542983,47.19931133094175,0 10.47410632070639,47.1992675217146,0 10.46822774984909,47.19632028148958,0 10.46106714852803,47.19238750389034,0 10.45916242778556,47.18843320752172,0 10.45423035623041,47.19110966469126,0 10.44922976781632,47.19412852973895,0 10.43954666163422,47.19245030978291,0 10.43266617776077,47.18979350322873,0 10.42771187634492,47.18946970250628,0 10.42764068660327,47.18759057639013,0 10.42443304409167,47.1819943784331,0 10.42441753440645,47.18084485878149,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Ansbacher Hut to Schann</name>
-				<styleUrl>#msn_ylw-pushpin15</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.42378207202454,47.18115811976968,0 10.42037701255084,47.18253200369781,0 10.41859409779045,47.18264037698685,0 10.41387547846689,47.17732406522569,0 10.40660402326353,47.1762547410909,0 10.39894899713901,47.17512377146438,0 10.39698612453061,47.17207431829282,0 10.40219748547104,47.16956697255716,0 10.40256574982964,47.16784364173131,0 10.40051842014602,47.16526387324667,0 10.39130023007763,47.16274164223146,0 10.38811692334841,47.16018783925658,0 10.38333500324594,47.15679017510367,0 10.38277351675524,47.15371888338167,0 10.37937067784441,47.15189594784058,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Ansbacher Huette</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.44147374836825</longitude>
-					<latitude>47.18330122584766</latitude>
-					<altitude>0</altitude>
-					<heading>7.550922991926613</heading>
-					<tilt>32.78556390099474</tilt>
-					<range>4002.280930385723</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ranger_station</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.42482444830191,47.180773520822,0</coordinates>
-				</Point>
-			</Placemark>
-		</Folder>
 		<Folder>
 			<name>Overlays</name>
 			<Placemark>
-				<name>Stage One</name>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<name>Stage0</name>
+				<styleUrl>#msn_ylw-pushpin21</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								11.08504402200356,47.47642175673776,0 11.16337266978091,47.54674827180212,0 11.25890844460248,47.64416400533749,0 11.33554808248879,47.71980927203001,0 11.41317314232553,47.75841035661355,0 11.45462505132791,47.89011471258401,0 11.49491425648348,47.97920800031341,0 11.59892484123278,48.14684062045782,0 11.56839528883317,48.15078789074465,0 11.10203686470002,47.52966981482732,0 11.06533011610874,47.50030211214079,0 11.08504402200356,47.47642175673776,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Stage1</name>
+				<styleUrl>#msn_ylw-pushpin17</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
 					<altitudeMode>absolute</altitudeMode>
@@ -1497,8 +1387,8 @@
 				</Polygon>
 			</Placemark>
 			<Placemark>
-				<name>Stage Two</name>
-				<styleUrl>#msn_ylw-pushpin6</styleUrl>
+				<name>Stage2</name>
+				<styleUrl>#msn_ylw-pushpin21</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
 					<outerBoundaryIs>
@@ -1538,780 +1428,1069 @@
 					</outerBoundaryIs>
 				</Polygon>
 			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Stage2</name>
 			<Placemark>
-				<name>Schmalzgrubenscharte</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.35238339935156</longitude>
-					<latitude>47.09419957443382</latitude>
-					<altitude>0</altitude>
-					<heading>0.01434912164377963</heading>
-					<tilt>15.51697205040416</tilt>
-					<range>1027.051910948145</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.35122270295179,47.09507079286166,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Obere Fatlarscharte</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.29250341415724</longitude>
-					<latitude>47.05363757812454</latitude>
-					<altitude>0</altitude>
-					<heading>-0.02948619323871945</heading>
-					<tilt>15.52219420683194</tilt>
-					<range>2821.456610688388</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.29022369750441,47.05193226413073,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Schnann to Edm Graf Hut</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.37986980263974,47.15056215562,0 10.38943924889621,47.13775732887319,0 10.39625575748791,47.13736793182971,0 10.39371114021825,47.13367616005007,0 10.38471657105865,47.12818285546882,0 10.38178608781075,47.12485766439242,0 10.37771931569289,47.1199780067065,0 10.3719477972816,47.11725247478366,0 10.37051959545457,47.11521089192164,0 10.36998822926127,47.11426009729026,0 10.36768222742027,47.11379633800804,0 10.36708255663064,47.11283719480064,0 10.36175169567496,47.11243974658013,0 10.36086832096947,47.11088658162317,0 10.36098026116624,47.10911242135632,0 10.35725997560513,47.1060810491039,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Edm Graf Hut to Darmstaedter Hut</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.35696849744508,47.10637955429838,0 10.356501238911,47.10478455692069,0 10.35653321035417,47.10248293798381,0 10.35622804154908,47.10213970854269,0 10.35484546379122,47.10060545826953,0 10.35263404000291,47.09965488776171,0 10.35131469699505,47.09848484649778,0 10.35087964394742,47.09744482030257,0 10.35126229887996,47.09551005269715,0 10.3512469662742,47.09505748381577,0 10.35155543784373,47.09360840896863,0 10.35086479283706,47.09143250314059,0 10.35106061284971,47.08995002776081,0 10.3517853171982,47.08780014094095,0 10.34884137625997,47.08639968486772,0 10.34709359859038,47.0850553690054,0 10.34439638542288,47.08089338854825,0 10.34308720274132,47.08023872568631,0 10.3407826293544,47.08070915196047,0 10.33642827540515,47.08117976069556,0 10.33140779969313,47.07987835700505,0 10.32952123147478,47.07622089946907,0 10.3284506817689,47.07320358823779,0 10.32493969939349,47.07164504516199,0 10.32045482653841,47.06938445054425,0 10.31702932601668,47.0673883484389,0 10.31403100620754,47.06452310195069,0 10.31424134260219,47.06276127993668,0 10.31376734969344,47.06047508973154,0 10.30729859108739,47.05936144967961,0 10.30707650081544,47.05935019792761,0 10.30674566444438,47.05930828420007,0 10.30159683341808,47.05821892383932,0 10.29918241987761,47.05702399381075,0 10.29582721349978,47.05564282989629,0 10.29220498655583,47.05328705668362,0 10.29037060138423,47.05166972453298,0 10.2895286405209,47.04917289418277,0 10.28750987135528,47.04703448983415,0 10.2831604936925,47.04555002627728,0 10.27723440223472,47.04538727527065,0 10.27197884693151,47.04656776783463,0 10.26909128494455,47.04727349492315,0 10.26743225699018,47.04769980739235,0 10.26347604910616,47.04678125994584,0 10.26073971536717,47.04661215379914,0 10.25523627338383,47.04732811623067,0 10.252263252847,47.04862968169376,0 10.24960214483917,47.05072280395697,0 10.2495241001146,47.05259286375096,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Scheidjoechl</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.27756622697683</longitude>
-					<latitude>47.04981257678365</latitude>
-					<altitude>0</altitude>
-					<heading>-0.04039885569517783</heading>
-					<tilt>15.52203107147357</tilt>
-					<range>2372.961381912098</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.26750604539115,47.04808092836529,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Darmstaedter Huette</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.25782612563021</longitude>
-					<latitude>47.05105259550357</latitude>
-					<altitude>0</altitude>
-					<heading>-0.05484569557057415</heading>
-					<tilt>15.5239574302385</tilt>
-					<range>3174.975253529061</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness4</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.25012050322542,47.05321087947247,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Rautejoechl</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.24744461922768</longitude>
-					<latitude>47.04263021295561</latitude>
-					<altitude>0</altitude>
-					<heading>-0.06244343536889289</heading>
-					<tilt>15.52416757335035</tilt>
-					<range>2501.547417447075</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin10</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.24287341646333,47.04107145280474,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Schafbichljoch</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.20716028142883</longitude>
-					<latitude>47.00882613723798</latitude>
-					<altitude>0</altitude>
-					<heading>-0.09191576499143242</heading>
-					<tilt>16.51210974965845</tilt>
-					<range>1861.320177616144</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin10</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.20703683230836,47.00567332341144,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Matnaljoch</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.21834726177677</longitude>
-					<latitude>47.01453295123224</latitude>
-					<altitude>0</altitude>
-					<heading>-0.08373323276228796</heading>
-					<tilt>36.3092801835847</tilt>
-					<range>689.278418179652</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin10</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.21892358465141,47.01405126066773,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Muttenjoch</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.1839628657929</longitude>
-					<latitude>46.99559096178868</latitude>
-					<altitude>0</altitude>
-					<heading>-0.1088803200586991</heading>
-					<tilt>21.06875701556901</tilt>
-					<range>2292.373640645368</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin10</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.17940704552672,46.99266672329296,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Faednerspitze</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.15998982890169</longitude>
-					<latitude>46.98336117854272</latitude>
-					<altitude>0</altitude>
-					<heading>-0.1264067282879261</heading>
-					<tilt>48.69678509765598</tilt>
-					<range>378.5567597804019</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_flag0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.16015073143489,46.98395191092962,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Zeinisjoch</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.13521898859495</longitude>
-					<latitude>46.98223089202256</latitude>
-					<altitude>0</altitude>
-					<heading>-0.1445163748350371</heading>
-					<tilt>47.98026345364622</tilt>
-					<range>4388.493998970156</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin8</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.1335000341834,46.97818243168982,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Darmstaedter to Zeinisjoch</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.24902779009868,47.05262366680221,0 10.24623031997457,47.04956678092984,0 10.24267031061606,47.0445511753806,0 10.24287164018816,47.04206498168173,0 10.242810247058,47.04149695594745,0 10.2426084646656,47.04078318442085,0 10.24170784510903,47.03988498584205,0 10.23656639025143,47.03864820116517,0 10.2361506097798,47.03763985516596,0 10.23762445724463,47.03588970719973,0 10.23649416515053,47.03405808322252,0 10.23426845560782,47.03302142753783,0 10.23337169597691,47.03209426809579,0 10.23266261472963,47.0307133766025,0 10.23304873376829,47.02882611921531,0 10.23308769939368,47.02708760180722,0 10.23260603713048,47.02471255198192,0 10.23209664690682,47.02386505774367,0 10.23165113547965,47.02327860612402,0 10.22991408349698,47.02230767647849,0 10.23013309408165,47.02106885047467,0 10.22958332658858,47.01933315114411,0 10.22792006869888,47.01812151504775,0 10.22527568799833,47.01691213048233,0 10.22427416509546,47.01593362862121,0 10.22242576348832,47.01449390758278,0 10.21964071721293,47.01406624983205,0 10.21735991489238,47.01303926240149,0 10.21559681737416,47.01151000120884,0 10.21301330714557,47.0111920402887,0 10.21073049242301,47.00996818287863,0 10.20862412122323,47.00859244350522,0 10.20808422307532,47.00634906484415,0 10.20533145933531,47.0048062445566,0 10.20215900570463,47.00350461140191,0 10.1995622904592,47.00321399917939,0 10.19559561711343,47.00177606501283,0 10.19354153436646,47.00122790470588,0 10.19237376232547,46.99978940975092,0 10.19015283215662,46.9986218366641,0 10.18838227899807,46.99648234444371,0 10.18682496621343,46.99504617269421,0 10.1830698913649,46.99366896344006,0 10.18056626375895,46.99302122897687,0 10.1782912712867,46.99058297694626,0 10.17681892238017,46.98875738465807,0 10.17572330269649,46.98725766315292,0 10.1748763791679,46.98577253403105,0 10.17461882875041,46.98543775814876,0 10.17307437874033,46.98376033286191,0 10.17306921433442,46.98369513744056,0 10.17105186111251,46.98294530892903,0 10.16744405772287,46.98268991520181,0 10.16375378172203,46.98247313639708,0 10.16045501445105,46.983549853847,0 10.1602216050041,46.9838560883446,0 10.15847617176838,46.98353872439903,0 10.15636539542372,46.98398464260168,0 10.15347190920826,46.98501551079849,0 10.15108680352222,46.98461793667389,0 10.14310402489872,46.98419144242795,0 10.13982554295359,46.98383982562117,0 10.13667191248491,46.98285712687822,0 10.13254501180927,46.98221801222768,0 10.12914515047441,46.98022203680663,0 10.12897108366127,46.97910860184539,0 10.13381614751249,46.97809469452652,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Stage3</name>
-			<Placemark>
-				<name>Waegerhus</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.95100218035606</longitude>
-					<latitude>46.76316486441165</latitude>
-					<altitude>0</altitude>
-					<heading>-1.173813807225434</heading>
-					<tilt>37.62971821182328</tilt>
-					<range>2003.868576565532</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.941524390326979,46.76546318811065,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Berghaus Vereina</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.986459680283509</longitude>
-					<latitude>46.81812748909404</latitude>
-					<altitude>0</altitude>
-					<heading>-1.148113559686094</heading>
-					<tilt>26.53841328455926</tilt>
-					<range>3607.850839224594</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness6</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.982498901922041,46.81402960722081,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Novai</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.965097459033579</longitude>
-					<latitude>46.85484046869961</latitude>
-					<altitude>0</altitude>
-					<heading>-1.163677142519477</heading>
-					<tilt>27.09288979630012</tilt>
-					<range>2622.191415669393</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin4</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.962296889990967,46.85194179082522,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Rote Furka</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.0636128036744</longitude>
-					<latitude>46.86479555080972</latitude>
-					<altitude>0</altitude>
-					<heading>-1.09178180193798</heading>
-					<tilt>49.73832056130077</tilt>
-					<range>1292.309397830024</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin4</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.06124466199818,46.86148177392013,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Silvretta Haus</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.09942384440688</longitude>
-					<latitude>46.92032892297011</latitude>
-					<altitude>0</altitude>
-					<heading>-1.065588564359704</heading>
-					<tilt>39.59183288534226</tilt>
-					<range>1801.221896626025</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness5</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.09298144047392,46.91793334171248,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Breitspitze</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.10630922018168</longitude>
-					<latitude>46.96133983513913</latitude>
-					<altitude>0</altitude>
-					<heading>-1.060556581289369</heading>
-					<tilt>39.59369408667381</tilt>
-					<range>1818.912277285763</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_flag</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.09926252514258,46.9580412763738,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>P2515</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.10919511883948</longitude>
-					<latitude>46.93447530776193</latitude>
-					<altitude>0</altitude>
-					<heading>-1.058451111712012</heading>
-					<tilt>39.58645205307568</tilt>
-					<range>706.8651598204748</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin18</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.10996683757682,46.93373384617492,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Zeinisjoch to Bielerhoehe</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.13433809032846,46.977501176883,0 10.12699473651737,46.97616005852537,0 10.12550486234144,46.97532056297844,0 10.12966977937167,46.97398722638345,0 10.13141911594667,46.97336858326095,0 10.13315638112171,46.97219598565511,0 10.13245159754763,46.97097900975518,0 10.13159291857994,46.96993319881997,0 10.12824060430502,46.96840218354151,0 10.12426456589321,46.96748271846141,0 10.12235677417363,46.96680591289714,0 10.122108887577,46.96550115821704,0 10.12223307364381,46.9634265359665,0 10.122359348826,46.96173169149049,0 10.11812620155636,46.95949100582762,0 10.11145281407219,46.9587851487295,0 10.10771307686368,46.95841548453048,0 10.0994092824532,46.9578780876702,0 10.10489124224203,46.9575503260776,0 10.10563465212259,46.95684468187674,0 10.10395944166144,46.95516126106806,0 10.1018220586012,46.95420595654445,0 10.10182553237409,46.95432116142503,0 10.09905827455554,46.95275107895748,0 10.09515990690936,46.95213554439803,0 10.09297198576508,46.95047465543661,0 10.09117023849422,46.94366928654242,0 10.09049226985228,46.94154769785573,0 10.09199846206043,46.93875656828352,0 10.09735581340884,46.93788895945162,0 10.09969597612772,46.93828328780684,0 10.10422365575444,46.93641372704398,0 10.10843074996643,46.93483452713848,0 10.11055328447036,46.93364808039727,0 10.11064232625097,46.93291486087925,0 10.11074421568918,46.93210091547046,0 10.11022807335647,46.93052869448702,0 10.10979882274813,46.92839627113815,0 10.1082030276764,46.92677103927888,0 10.10548981627026,46.92496592850102,0 10.10294876527052,46.92444744157277,0 10.09753537325313,46.92199034047573,0 10.09598225316301,46.92166396106106,0 10.09666554242988,46.92073641787803,0 10.09649996467503,46.92003744715337,0 10.09426154522312,46.91893200763312,0 10.09183240630249,46.91830500330349,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Cna da Grialetsch</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.957407410571561</longitude>
-					<latitude>46.71269834500064</latitude>
-					<altitude>0</altitude>
-					<heading>-1.169220487905764</heading>
-					<tilt>37.14622082728175</tilt>
-					<range>1098.056769663243</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness5</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.960460609377801,46.71002224971203,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Fuorcla da Grialetsch</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.957407410571561</longitude>
-					<latitude>46.71269834500064</latitude>
-					<altitude>0</altitude>
-					<heading>-1.169220487905764</heading>
-					<tilt>37.14622082728175</tilt>
-					<range>1098.056769663243</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin14</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.958183582792516,46.71204511195808,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Fuorcla Radoent</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.96910678519367</longitude>
-					<latitude>46.72795795061985</latitude>
-					<altitude>0</altitude>
-					<heading>-1.160704767960622</heading>
-					<tilt>46.39075552484934</tilt>
-					<range>926.8824462822344</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin14</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.968574491875845,46.72692206346773,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flueelapass</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.952765445647216</longitude>
-					<latitude>46.75446936673575</latitude>
-					<altitude>0</altitude>
-					<heading>-1.172605504516669</heading>
-					<tilt>46.39607691763172</tilt>
-					<range>1749.811571139883</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin14</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.947358962415988,46.75042522428136,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Winterluecke</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>9.959784052659472</longitude>
-					<latitude>46.77264832842808</latitude>
-					<altitude>0</altitude>
-					<heading>-1.167492193596843</heading>
-					<tilt>48.50027191613651</tilt>
-					<range>1699.213357650392</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin14</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.961299080183029,46.7677557502147,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Silvretta Huette</name>
-				<LookAt>
-					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
-</gx:TimeStamp>
-					<longitude>10.03626814868442</longitude>
-					<latitude>46.85703156220892</latitude>
-					<altitude>0</altitude>
-					<heading>-1.111727173342477</heading>
-					<tilt>42.59854267900384</tilt>
-					<range>1744.734216923493</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.04139749147733,46.85444671343717,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Bielerhoehe to Flueelapass</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						10.09171843959671,46.91805188928926,0 10.09027693440282,46.91372250744859,0 10.09021308683303,46.9092116716496,0 10.08721111423129,46.90457882428328,0 10.08492539399898,46.90042097707311,0 10.08219729264133,46.89667438212052,0 10.07608759693441,46.89317023828178,0 10.07361038581641,46.89136972192111,0 10.06782848538736,46.88548066667344,0 10.06246891926924,46.87785527003071,0 10.06176433364698,46.87272060088423,0 10.06054446144329,46.86714166929377,0 10.06051281039497,46.86539800016566,0 10.06150996211174,46.86158970939473,0 10.06234540410297,46.86088077640449,0 10.06294552620826,46.85946024524088,0 10.06087604688311,46.85870210259663,0 10.05817853491554,46.85803133168206,0 10.05063099360772,46.85696671396983,0 10.04566176485643,46.85567825745958,0 10.04102508427479,46.85451294964219,0 10.03543853725894,46.85466771514372,0 10.03066007620937,46.85497227036466,0 10.02554791385891,46.85669480169638,0 10.01813607276124,46.85867539783438,0 10.00675328824019,46.85910607065797,0 9.996339039159965,46.85726258412271,0 9.976686984425672,46.85443617529593,0 9.967337269248077,46.85341176945384,0 9.96150337000071,46.85236730741044,0 9.960201247213377,46.84472793717237,0 9.966516891463693,46.83730734155444,0 9.97065922843333,46.83212071956948,0 9.972705490131975,46.82796312515447,0 9.97679866653899,46.82248167784225,0 9.980961550080591,46.81528007610736,0 9.982658364846845,46.81379775044074,0 9.982686416600785,46.80841337033566,0 9.981804657041257,46.80444786031148,0 9.97926318158747,46.80083629386015,0 9.978841815723369,46.79555643700512,0 9.977605050507471,46.79167593262314,0 9.9752515389373,46.78756022364783,0 9.972883085946728,46.78497271409987,0 9.970510734719124,46.78390081649707,0 9.969447360211756,46.77992653460688,0 9.972212817116031,46.77912597310166,0 9.97472829462604,46.77733739866064,0 9.974326185909197,46.77466988598957,0 9.97160401647449,46.77194949820879,0 9.967650473521294,46.76974208549922,0 9.964161361300629,46.76879027664419,0 9.962025311471873,46.76733173391086,0 9.961364253690599,46.76669381986737,0 9.960053656997527,46.76613869494884,0 9.956209528208738,46.76661045196429,0 9.95409212118912,46.76661126185742,0 9.950236442991223,46.76754880451127,0 9.946415955271117,46.76837821830595,0 9.943976704001747,46.7690622990415,0 9.942014376957889,46.7670367066909,0 9.941251832040159,46.76575585818183,0 9.942376637951631,46.76432653204689,0 9.944069104403697,46.7609938649793,0 9.944744073019596,46.75485828666022,0 9.944508828849832,46.75299486244428,0 9.94676282724768,46.75120101269532,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Flueelapass to Grialetsch</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						9.948261020434931,46.74952094739088,0 9.952216560893747,46.74699832358346,0 9.956645233021828,46.74575455205208,0 9.962155695991875,46.74334303936252,0 9.960576177901553,46.73978477332933,0 9.959514873094415,46.73721710539593,0 9.960529193901662,46.73400806611965,0 9.961083695802078,46.73100314257803,0 9.966160014890718,46.72881251972289,0 9.968428751587147,46.72692552896235,0 9.968793127022892,46.72585392108698,0 9.968045206163726,46.72443414495569,0 9.965317653471402,46.71736758510672,0 9.962204621403178,46.71317862288443,0 9.95986034069576,46.71225912941238,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Stage4</name>
-			<Placemark>
-				<name>Duerrboden to Chamanna da Es-cha</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						9.959152366044417,46.71137412178512,0 9.952997248087838,46.71284432134399,0 9.948618354755522,46.71276957587497,0 9.943659501445406,46.7121226855249,0 9.939842365336728,46.71111386087728,0 9.936707623292307,46.71059192351603,0 9.935174124307991,46.71102928260098,0 9.933476855633126,46.71177701993292,0 9.932112576876859,46.71088022660326,0 9.93107096721106,46.7085973450506,0 9.929077878765396,46.70681816624422,0 9.926811540306774,46.70523359220638,0 9.925118321733844,46.70386692534337,0 9.923811856690454,46.70125795181104,0 9.922311138266604,46.69850457671748,0 9.920478095138019,46.69726531063085,0 9.920212581527561,46.69421251983267,0 9.920849700236012,46.69239738291287,0 9.91900005113523,46.69004681235564,0 9.91973410225256,46.68736869603372,0 9.920108423615005,46.6856581760076,0 9.920662138241635,46.68281620052015,0 9.918073881574225,46.67808845107304,0 9.918243466491575,46.67589285083871,0 9.917556744684175,46.6741702006522,0 9.918229460825447,46.67425786464654,0 9.918183148400452,46.67379806170475,0 9.918858721972416,46.67352104222795,0 9.918454316190434,46.67284715998788,0 9.909866811359738,46.67028999044619,0 9.905233185929546,46.66761315734056,0 9.890296750378573,46.66477173738389,0 9.885034703938313,46.66103884825765,0 9.879214075305732,46.65472043254022,0 9.87913022498137,46.65144289596812,0 9.877014700681951,46.64538118715978,0 9.876347586608107,46.64485955066473,0 9.879103884355549,46.64171604336462,0 9.881845242096958,46.63945423428616,0 9.883898923477473,46.63211668548295,0 9.884945051215627,46.62953848854608,0 9.885152101574025,46.62680392546114,0 9.886961161901286,46.62415633692429,0 9.888589218474163,46.62382685810495,0 9.88954264690107,46.6235239320644,0 9.89120248190863,46.62304036561545,0 9.892737355481549,46.6216408701111,0 9.895026255273752,46.61952703185226,0 9.895463432549032,46.61737850336703,0 9.897690339462983,46.61652152649735,0 9.898923367276275,46.6156578462807,0 9.899937780946999,46.61451796949441,0 9.901946163593628,46.611964323996,0 9.902323604599738,46.61141800899212,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Jenatsch to Bivio</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						9.723961907246125,46.52897698995687,0 9.721433895797366,46.52887797732342,0 9.719869322478164,46.52767611208306,0 9.719651589133472,46.52528577214684,0 9.71930973201194,46.52363122481384,0 9.716146193915915,46.51999810156026,0 9.714823578053323,46.51655011635249,0 9.714221353992265,46.51428052859193,0 9.715249860768711,46.51175627556282,0 9.714769352874237,46.51015937274756,0 9.714407758134826,46.50946496777939,0 9.713573264173514,46.50731924914519,0 9.712216869649835,46.50570086979116,0 9.712108098506722,46.50506623432467,0 9.710865434621549,46.50331633395272,0 9.710100117566739,46.50133397094037,0 9.705203670999555,46.49399692844289,0 9.70373477705294,46.49198456137546,0 9.701013221951458,46.49139666407702,0 9.699239798473089,46.49011978152704,0 9.69764364958297,46.48935329931257,0 9.695540076325667,46.48954127637596,0 9.694114304983177,46.48960057518315,0 9.69151848115267,46.49014572101516,0 9.690128606821165,46.49033257152781,0 9.689126092480162,46.49120401968936,0 9.688116677948063,46.49403995019167,0 9.6852225672366,46.49744862078573,0 9.679881971476672,46.49733933843599,0 9.67577317713431,46.4977044800691,0 9.669022957656331,46.49796954907405,0 9.664675311765089,46.49811215145544,0 9.659120008471129,46.49761485181634,0 9.65559206309797,46.4968008553774,0 9.654425037738982,46.49446658959172,0 9.652722082213225,46.49230786689152,0 9.649590939016404,46.48979954073373,0 9.649814223593431,46.48670405768748,0 9.648957598887941,46.48404128646125,0 9.648017273958979,46.47889735476502,0 9.64902588085784,46.4744383149387,0 9.651479786357999,46.46885092695184,0 9.651268973745793,46.46749793133979,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Es-cha to Chamanna Jenatsch</name>
-				<styleUrl>#msn_ylw-pushpin7</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						9.90214035118078,46.61151109203565,0 9.899178357982565,46.61131686423008,0 9.897571686246851,46.60992266909951,0 9.89761001647924,46.60980170145951,0 9.896141515009493,46.60811320298445,0 9.892853594369964,46.60755504136043,0 9.89158994166239,46.60650478095587,0 9.890737793838246,46.60451633948347,0 9.891627488396214,46.60199047079718,0 9.893296152873408,46.60034908991398,0 9.894817046751145,46.5985171296303,0 9.894579379014095,46.59742229374629,0 9.894536230487343,46.595983279405,0 9.890562074787017,46.59461418037331,0 9.88767148114691,46.59284547507535,0 9.880749644346675,46.59157521275187,0 9.877606622363619,46.59132125976515,0 9.873264008999714,46.58920629961631,0 9.870041258541814,46.58857777319945,0 9.863331828999303,46.58773702655739,0 9.857494777394763,46.58658038491093,0 9.853112913044516,46.58559336320615,0 9.84081431384541,46.58334645179816,0 9.837013190840135,46.58183801260682,0 9.831214249080713,46.57981551667216,0 9.8270321090121,46.57922914212233,0 9.820005321602663,46.57886649660505,0 9.816666723163955,46.57777726807348,0 9.813709078759567,46.57670633212703,0 9.811814964082604,46.57564325127363,0 9.812538635996656,46.57547813296981,0 9.811611176538143,46.57482898988738,0 9.81054100067122,46.57343466192751,0 9.809181360472492,46.5727207869998,0 9.807619234238146,46.57224913814179,0 9.804933117814855,46.57129309973033,0 9.804038800581207,46.57118095282758,0 9.801755363198851,46.5708396618952,0 9.800446994944672,46.57004412095304,0 9.795678840796596,46.56896255420283,0 9.794922196161888,46.567936684159,0 9.796564192760497,46.56681736906451,0 9.797154593805431,46.56594265166729,0 9.796999646261535,46.5650450599104,0 9.798769320049166,46.56374280008399,0 9.799365360718607,46.56368523116861,0 9.799993592560774,46.563732343167,0 9.799790159367504,46.5633945138631,0 9.800451822464776,46.56366833080636,0 9.800423509548384,46.56350309375165,0 9.801342371160542,46.56356998742828,0 9.80220066799189,46.5635771435403,0 9.802513375775316,46.56358418217888,0 9.803640124690807,46.56330123922902,0 9.803434931850628,46.56316129019728,0 9.80472124739217,46.56322553193199,0 9.804604727835486,46.56299328529764,0 9.805510223601853,46.56291394834921,0 9.806854179924064,46.56303027247118,0 9.807685057189495,46.56296648547544,0 9.809027566446638,46.56287370798943,0 9.809920693666697,46.56288904982333,0 9.81067465001683,46.56263763153137,0 9.811387629248324,46.56205069356471,0 9.807176397750965,46.56147572450852,0 9.803392893799828,46.56033202555279,0 9.801271886035765,46.55942476229453,0 9.797701193586327,46.55823237046841,0 9.795264731623423,46.55647932139802,0 9.789700908309714,46.55438912125818,0 9.786010617947444,46.55284139520447,0 9.784925850374215,46.5516206476871,0 9.778995586634283,46.54926837273854,0 9.776591079369425,46.54986893952071,0 9.774444906534637,46.54920158400683,0 9.770486822428865,46.54785097633866,0 9.770501538144332,46.54690782237474,0 9.769492430761916,46.5471092512229,0 9.768215321519918,46.54702907445802,0 9.765688797892507,46.54651813270837,0 9.764267591900415,46.54564323840183,0 9.762061482840224,46.54484421868819,0 9.758839163813915,46.54471687143658,0 9.756703308811494,46.54394812955129,0 9.755690279454875,46.54311029364036,0 9.75375582465251,46.54186284565841,0 9.753002885988533,46.54037804781946,0 9.749804025199538,46.53823398409466,0 9.747898857809709,46.53606582588456,0 9.747901892160639,46.53605402483696,0 9.747244406863773,46.53493196498848,0 9.745716305350767,46.53356277953397,0 9.740998977620965,46.52946803829787,0 9.736563668248511,46.52602764170629,0 9.734767644196049,46.52562373897594,0 9.732799369761452,46.52543152685922,0 9.731348452783868,46.52587753635341,0 9.731528059044711,46.52605372702241,0 9.730587697431174,46.52632983021424,0 9.729853435961948,46.52687296782108,0 9.728643807512823,46.52702793739753,0 9.728752483312142,46.52736267153046,0 9.728340845150464,46.52772984519147,0 9.728060169372664,46.52854486737625,0 9.727609012323587,46.52892340266717,0 9.725922222879584,46.5295057623684,0 9.725031255325209,46.52996628342883,0 9.724566998447987,46.52927655773253,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Fuorcla Gualdauna</name>
-				<LookAt>
-					<longitude>9.895704458456226</longitude>
-					<latitude>46.60344414980491</latitude>
-					<altitude>0</altitude>
-					<heading>-8.189808006649562</heading>
-					<tilt>49.50518488219172</tilt>
-					<range>1417.698050247022</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
+				<name>Stage5</name>
 				<styleUrl>#msn_ylw-pushpin13</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.89543569181726,46.59727258119611,0</coordinates>
-				</Point>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								9.298320450595321,46.13887015290162,0 9.339959769719449,46.17224707408057,0 9.352968022318439,46.23753877774499,0 9.395936038621471,46.27241922710872,0 9.490834692084011,46.30131013245462,0 9.580401086332039,46.34118738975585,0 9.665624618241997,46.39636533561404,0 9.678494729880637,46.44597429580995,0 9.628655797659862,46.46577035527441,0 9.42085389951254,46.33638032795374,0 9.352680298970853,46.31005728109434,0 9.279292184230467,46.28100949661894,0 9.224514197610347,46.25212455049419,0 9.298320450595321,46.13887015290162,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
 			</Placemark>
-			<Placemark>
-				<name>Duerrboden Cutoff</name>
-				<LookAt>
-					<longitude>9.928442903857762</longitude>
-					<latitude>46.71531160928111</latitude>
-					<altitude>0</altitude>
-					<heading>-8.166012453283299</heading>
-					<tilt>50.83491390753129</tilt>
-					<range>1686.283585713918</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin13</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.9344739923521,46.71136598219748,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Chamanna da Es-cha</name>
-				<LookAt>
-					<longitude>9.904217515778843</longitude>
-					<latitude>46.61250682152711</latitude>
-					<altitude>0</altitude>
-					<heading>-1.445624291388938</heading>
-					<tilt>44.85998315463746</tilt>
-					<range>1479.054246066923</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.902634640665461,46.61149940236056,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Albula Pass</name>
-				<LookAt>
-					<longitude>9.840703760825171</longitude>
-					<latitude>46.58508154733779</latitude>
-					<altitude>0</altitude>
-					<heading>-1.491934849573711</heading>
-					<tilt>21.47975324793848</tilt>
-					<range>3113.200403381038</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin11</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.837270238659606,46.58221390535919,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Porta da Es</name>
-				<LookAt>
-					<longitude>9.893173145916988</longitude>
-					<latitude>46.62575420944111</latitude>
-					<altitude>0</altitude>
-					<heading>-1.453888728676884</heading>
-					<tilt>31.68495345439921</tilt>
-					<range>2201.364128603173</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin12</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.888271928986338,46.62381755917814,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Scalettapass</name>
-				<LookAt>
-					<longitude>9.924716892276287</longitude>
-					<latitude>46.69098283167376</latitude>
-					<altitude>0</altitude>
-					<heading>-1.432306885036834</heading>
-					<tilt>29.96290575092977</tilt>
-					<range>2475.43594828006</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.920153403473025,46.69245438956724,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Chamanna Kesch</name>
-				<LookAt>
-					<longitude>9.881080895394506</longitude>
-					<latitude>46.65284577749753</latitude>
-					<altitude>0</altitude>
-					<heading>-1.464006544563558</heading>
-					<tilt>32.82574324983009</tilt>
-					<range>3935.915468249871</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.875683578595712,46.64496505367261,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Alp Funtauna</name>
-				<LookAt>
-					<longitude>9.921942620707135</longitude>
-					<latitude>46.6758070206584</latitude>
-					<altitude>0</altitude>
-					<heading>-1.434300603349337</heading>
-					<tilt>43.73805769718435</tilt>
-					<range>2493.213515103364</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin12</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.919073692738184,46.67248057588192,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Fuorcla Crap Alv</name>
-				<LookAt>
-					<longitude>9.798226660156205</longitude>
-					<latitude>46.56539545059872</latitude>
-					<altitude>0</altitude>
-					<heading>-1.522780430503108</heading>
-					<tilt>32.62614365357224</tilt>
-					<range>2370.546929979549</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin11</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.797650544444467,46.56569627221907,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Fuorcla d&apos;Agnel</name>
-				<LookAt>
-					<longitude>9.712531325108587</longitude>
-					<latitude>46.509783954983</latitude>
-					<altitude>0</altitude>
-					<heading>-8.322811203126857</heading>
-					<tilt>39.1165189630844</tilt>
-					<range>1293.484402807057</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin11</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.714948892807499,46.51034403643898,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Alp Natons</name>
-				<LookAt>
-					<longitude>9.661451268827268</longitude>
-					<latitude>46.49665323050569</latitude>
-					<altitude>0</altitude>
-					<heading>-8.359861168791175</heading>
-					<tilt>32.00817101078687</tilt>
-					<range>4531.150671865352</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin9</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.652096878897588,46.49298818117266,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Fuorcla Leget</name>
-				<LookAt>
-					<longitude>9.694249697926274</longitude>
-					<latitude>46.49233251802458</latitude>
-					<altitude>0</altitude>
-					<heading>-8.336072082170551</heading>
-					<tilt>32.0028881405226</tilt>
-					<range>3268.640369678768</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin9</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.694225824138908,46.48991996724185,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Chamanna Jenatsch</name>
-				<LookAt>
-					<longitude>9.725629219000405</longitude>
-					<latitude>46.52752346855733</latitude>
-					<altitude>0</altitude>
-					<heading>-8.313310355757102</heading>
-					<tilt>47.97989493068722</tilt>
-					<range>910.7338100062751</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.724392590922186,46.52938307486711,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Bivio</name>
-				<LookAt>
-					<longitude>9.653816466128935</longitude>
-					<latitude>46.47794388810114</latitude>
-					<altitude>0</altitude>
-					<heading>-8.365398648963577</heading>
-					<tilt>32.01071522933132</tilt>
-					<range>5065.859545159627</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_homegardenbusiness3</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>9.650640945895708,46.46785320803928,0</coordinates>
-				</Point>
-			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Stages</name>
+			<Folder>
+				<name>Stage0</name>
+				<Placemark>
+					<name>Garmisch</name>
+					<LookAt>
+						<longitude>11.16336065987797</longitude>
+						<latitude>47.39385270558428</latitude>
+						<altitude>0</altitude>
+						<heading>0.4743092460902765</heading>
+						<tilt>0.4566902342075355</tilt>
+						<range>181209.4535282165</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin33</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.08498248886136,47.48734065089631,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Stage1</name>
+				<Placemark>
+					<name>Schnann</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.38494743398377</longitude>
+						<latitude>47.15622810675413</latitude>
+						<altitude>0</altitude>
+						<heading>7.51317801929526</heading>
+						<tilt>28.1524335257987</tilt>
+						<range>9774.046682182567</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.38120867672164,47.15303470835423,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ehrwald to Tarrentonalm</name>
+					<styleUrl>#msn_ylw-pushpin5</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.92250124602118,47.40644784184613,0 10.9186862380365,47.3994763054593,0 10.91246541969539,47.39482569224918,0 10.90054104566703,47.38811994625259,0 10.88723189086471,47.37849731557609,0 10.87931273587187,47.37411885777634,0 10.86767929546848,47.37270064726523,0 10.85938259817866,47.37056915769487,0 10.85325235006942,47.36769182662397,0 10.84770834418281,47.36690144564184,0 10.84295811727998,47.36423400864977,0 10.84340796030267,47.36127449535461,0 10.8431751690451,47.36123062131386,0 10.84274042834092,47.3612931460923,0 10.83769613297644,47.36419521632774,0 10.83167370917704,47.36326391507804,0 10.82629722460785,47.36322300425905,0 10.82198978239891,47.36364725094005,0 10.82170000134166,47.36591278794418,0 10.82049951649777,47.36911537933088,0 10.81737607665732,47.37100566958656,0 10.81226533800426,47.37127543162928,0 10.79973629123293,47.37339350476615,0 10.7995754187112,47.37336167390008,0 10.79115914019034,47.37413351380213,0 10.79378096114737,47.37668488034423,0 10.78664036311068,47.37682485885565,0 10.78582170681762,47.37498298898096,0 10.78591962936515,47.37283801219441,0 10.79214347979424,47.36463375838441,0 10.78657756288837,47.36247950404302,0 10.78421837392263,47.361383881594,0 10.78377849431983,47.35910901635856,0 10.78163301501207,47.35428639471638,0 10.77874576672906,47.34957838756252,0 10.77655035046679,47.34889809937789,0 10.77024788213983,47.34796668028589,0 10.76427835577149,47.35014304893522,0 10.75367783637657,47.35329340429032,0 10.74815241759439,47.35921438441429,0 10.74368327397292,47.35858522088014,0 10.73447669001146,47.36115806489885,0 10.73011363094121,47.35171307359691,0 10.72687778373153,47.3412273539123,0 10.72018981879321,47.33299775558619,0 10.72102732636175,47.33064101515495,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Tarrentonalm to Boden P1</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.6855595178822,47.3068429312745,0 10.68859103794126,47.30761299473487,0 10.69245410518652,47.3091359087637,0 10.69619037552359,47.30980107926422,0 10.70056198621254,47.31089669680539,0 10.70600493257025,47.31420562943163,0 10.70798083219073,47.31573079462169,0 10.7122338316003,47.31896202154481,0 10.72105553052959,47.32810816053099,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Tarrentonalm to Boden P2</name>
+					<styleUrl>#msn_ylw-pushpin20</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.68514914373927,47.30655464378059,0 10.68402790396169,47.30606177628881,0 10.68159136194274,47.30538744423476,0 10.67878519192711,47.30464325616798,0 10.67789527750232,47.30367680913582,0 10.67426575666496,47.30236987277904,0 10.67116396040612,47.30124684566205,0 10.66629444851558,47.30031903158205,0 10.66266264071205,47.29969346921282,0 10.66274574643923,47.29862648368196,0 10.66425832087887,47.29602578280532,0 10.66586917437748,47.2949133451895,0 10.66527466306606,47.29385951438779,0 10.66614866363519,47.2926429929482,0 10.66642703767941,47.2919046943588,0 10.66182490264123,47.29032551517519,0 10.65571883444463,47.28795044335686,0 10.64224837164996,47.28687424246232,0 10.62711031344583,47.2841090299455,0 10.61291133817204,47.2827974470284,0 10.60509978698319,47.28318181005561,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Boden to Wuerttemberger Hut</name>
+					<styleUrl>#msn_ylw-pushpin19</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.60330703832988,47.28200290453774,0 10.59917511104751,47.27691004675148,0 10.59544913517088,47.27312367737533,0 10.59528123187354,47.27262439658561,0 10.59085987022034,47.26551440111179,0 10.59278873898663,47.26191045193374,0 10.59114866479955,47.24940925386752,0 10.59163646336459,47.23649728588884,0 10.59238718497089,47.23300317569193,0 10.59609410850702,47.23026162832883,0 10.59068098016039,47.22876679281415,0 10.58662666384982,47.22705678113567,0 10.57915618214516,47.22717959155281,0 10.57013110557068,47.22601375634563,0 10.5616756121605,47.22299721437776,0 10.55479585393281,47.22004935407962,0 10.55065007740444,47.21270160629063,0 10.54558643133685,47.20941858807259,0 10.54158458801297,47.21043304900027,0 10.53511279999058,47.21031124810013,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Wuerttemberger to Ansbacher</name>
+					<styleUrl>#msn_ylw-pushpin</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.53513100174948,47.21011114287906,0 10.52997113037327,47.21021065740043,0 10.52247859998815,47.20828978803872,0 10.51762179900708,47.2029866598146,0 10.51244316647496,47.20134787270074,0 10.50474793574601,47.20024086631023,0 10.49923062534823,47.19974565701592,0 10.49707741576648,47.19394950697055,0 10.49346295554424,47.19323810686616,0 10.489238287375,47.19304696291237,0 10.4814634638744,47.19770039598626,0 10.47695195542983,47.19931133094175,0 10.47410632070639,47.1992675217146,0 10.46822774984909,47.19632028148958,0 10.46106714852803,47.19238750389034,0 10.45916242778556,47.18843320752172,0 10.45423035623041,47.19110966469126,0 10.44922976781632,47.19412852973895,0 10.43954666163422,47.19245030978291,0 10.43266617776077,47.18979350322873,0 10.42771187634492,47.18946970250628,0 10.42764068660327,47.18759057639013,0 10.42443304409167,47.1819943784331,0 10.42441753440645,47.18084485878149,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Ansbacher Hut to Schann</name>
+					<styleUrl>#msn_ylw-pushpin18</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.42378207202454,47.18115811976968,0 10.42037701255084,47.18253200369781,0 10.41859409779045,47.18264037698685,0 10.41387547846689,47.17732406522569,0 10.40660402326353,47.1762547410909,0 10.39894899713901,47.17512377146438,0 10.39698612453061,47.17207431829282,0 10.40219748547104,47.16956697255716,0 10.40256574982964,47.16784364173131,0 10.40051842014602,47.16526387324667,0 10.39130023007763,47.16274164223146,0 10.38811692334841,47.16018783925658,0 10.38333500324594,47.15679017510367,0 10.38277351675524,47.15371888338167,0 10.37937067784441,47.15189594784058,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Ansbacher Huette</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.44147374836825</longitude>
+						<latitude>47.18330122584766</latitude>
+						<altitude>0</altitude>
+						<heading>7.550922991926613</heading>
+						<tilt>32.78556390099474</tilt>
+						<range>4002.280930385723</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ranger_station</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.42482444830191,47.180773520822,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Stage2</name>
+				<Placemark>
+					<name>Hoher Riffler</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.38609416362302</longitude>
+						<latitude>47.12973814195946</latitude>
+						<altitude>0</altitude>
+						<heading>7.514017922991267</heading>
+						<tilt>28.14217788652869</tilt>
+						<range>7352.211754616359</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_flag1</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.3704045128585,47.11596346506383,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schmalzgrubenscharte</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.35238339935156</longitude>
+						<latitude>47.09419957443382</latitude>
+						<altitude>0</altitude>
+						<heading>0.01434912164377963</heading>
+						<tilt>15.51697205040416</tilt>
+						<range>1027.051910948145</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.35122270295179,47.09507079286166,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Obere Fatlarscharte</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.29250341415724</longitude>
+						<latitude>47.05363757812454</latitude>
+						<altitude>0</altitude>
+						<heading>-0.02948619323871945</heading>
+						<tilt>15.52219420683194</tilt>
+						<range>2821.456610688388</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.29022369750441,47.05193226413073,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schnann to Edm Graf Hut</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.37986980263974,47.15056215562,0 10.38943924889621,47.13775732887319,0 10.39625575748791,47.13736793182971,0 10.39371114021825,47.13367616005007,0 10.38471657105865,47.12818285546882,0 10.38178608781075,47.12485766439242,0 10.37771931569289,47.1199780067065,0 10.3719477972816,47.11725247478366,0 10.37051959545457,47.11521089192164,0 10.36998822926127,47.11426009729026,0 10.36768222742027,47.11379633800804,0 10.36708255663064,47.11283719480064,0 10.36175169567496,47.11243974658013,0 10.36086832096947,47.11088658162317,0 10.36098026116624,47.10911242135632,0 10.35725997560513,47.1060810491039,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Edm Graf Hut to Darmstaedter Hut</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.35696849744508,47.10637955429838,0 10.356501238911,47.10478455692069,0 10.35653321035417,47.10248293798381,0 10.35622804154908,47.10213970854269,0 10.35484546379122,47.10060545826953,0 10.35263404000291,47.09965488776171,0 10.35131469699505,47.09848484649778,0 10.35087964394742,47.09744482030257,0 10.35126229887996,47.09551005269715,0 10.3512469662742,47.09505748381577,0 10.35155543784373,47.09360840896863,0 10.35086479283706,47.09143250314059,0 10.35106061284971,47.08995002776081,0 10.3517853171982,47.08780014094095,0 10.34884137625997,47.08639968486772,0 10.34709359859038,47.0850553690054,0 10.34439638542288,47.08089338854825,0 10.34308720274132,47.08023872568631,0 10.3407826293544,47.08070915196047,0 10.33642827540515,47.08117976069556,0 10.33140779969313,47.07987835700505,0 10.32952123147478,47.07622089946907,0 10.3284506817689,47.07320358823779,0 10.32493969939349,47.07164504516199,0 10.32045482653841,47.06938445054425,0 10.31702932601668,47.0673883484389,0 10.31403100620754,47.06452310195069,0 10.31424134260219,47.06276127993668,0 10.31376734969344,47.06047508973154,0 10.30729859108739,47.05936144967961,0 10.30707650081544,47.05935019792761,0 10.30674566444438,47.05930828420007,0 10.30159683341808,47.05821892383932,0 10.29918241987761,47.05702399381075,0 10.29582721349978,47.05564282989629,0 10.29220498655583,47.05328705668362,0 10.29037060138423,47.05166972453298,0 10.2895286405209,47.04917289418277,0 10.28750987135528,47.04703448983415,0 10.2831604936925,47.04555002627728,0 10.27723440223472,47.04538727527065,0 10.27197884693151,47.04656776783463,0 10.26909128494455,47.04727349492315,0 10.26743225699018,47.04769980739235,0 10.26347604910616,47.04678125994584,0 10.26073971536717,47.04661215379914,0 10.25523627338383,47.04732811623067,0 10.252263252847,47.04862968169376,0 10.24960214483917,47.05072280395697,0 10.2495241001146,47.05259286375096,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Scheidjoechl</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.27756622697683</longitude>
+						<latitude>47.04981257678365</latitude>
+						<altitude>0</altitude>
+						<heading>-0.04039885569517783</heading>
+						<tilt>15.52203107147357</tilt>
+						<range>2372.961381912098</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.26750604539115,47.04808092836529,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Darmstaedter Huette</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.25782612563021</longitude>
+						<latitude>47.05105259550357</latitude>
+						<altitude>0</altitude>
+						<heading>-0.05484569557057415</heading>
+						<tilt>15.5239574302385</tilt>
+						<range>3174.975253529061</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness5</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.25012050322542,47.05321087947247,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Rautejoechl</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.24744461922768</longitude>
+						<latitude>47.04263021295561</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06244343536889289</heading>
+						<tilt>15.52416757335035</tilt>
+						<range>2501.547417447075</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.24287341646333,47.04107145280474,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schafbichljoch</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.20716028142883</longitude>
+						<latitude>47.00882613723798</latitude>
+						<altitude>0</altitude>
+						<heading>-0.09191576499143242</heading>
+						<tilt>16.51210974965845</tilt>
+						<range>1861.320177616144</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.20703683230836,47.00567332341144,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Matnaljoch</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.21834726177677</longitude>
+						<latitude>47.01453295123224</latitude>
+						<altitude>0</altitude>
+						<heading>-0.08373323276228796</heading>
+						<tilt>36.3092801835847</tilt>
+						<range>689.278418179652</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.21892358465141,47.01405126066773,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Muttenjoch</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.1839628657929</longitude>
+						<latitude>46.99559096178868</latitude>
+						<altitude>0</altitude>
+						<heading>-0.1088803200586991</heading>
+						<tilt>21.06875701556901</tilt>
+						<range>2292.373640645368</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.17940704552672,46.99266672329296,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Faednerspitze</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.15998982890169</longitude>
+						<latitude>46.98336117854272</latitude>
+						<altitude>0</altitude>
+						<heading>-0.1264067282879261</heading>
+						<tilt>48.69678509765598</tilt>
+						<range>378.5567597804019</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_flag0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.16015073143489,46.98395191092962,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zeinisjoch</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.13521898859495</longitude>
+						<latitude>46.98223089202256</latitude>
+						<altitude>0</altitude>
+						<heading>-0.1445163748350371</heading>
+						<tilt>47.98026345364622</tilt>
+						<range>4388.493998970156</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin8</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.1335000341834,46.97818243168982,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Darmstaedter to Zeinisjoch</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.24902779009868,47.05262366680221,0 10.24623031997457,47.04956678092984,0 10.24267031061606,47.0445511753806,0 10.24287164018816,47.04206498168173,0 10.242810247058,47.04149695594745,0 10.2426084646656,47.04078318442085,0 10.24170784510903,47.03988498584205,0 10.23656639025143,47.03864820116517,0 10.2361506097798,47.03763985516596,0 10.23762445724463,47.03588970719973,0 10.23649416515053,47.03405808322252,0 10.23426845560782,47.03302142753783,0 10.23337169597691,47.03209426809579,0 10.23266261472963,47.0307133766025,0 10.23304873376829,47.02882611921531,0 10.23308769939368,47.02708760180722,0 10.23260603713048,47.02471255198192,0 10.23209664690682,47.02386505774367,0 10.23165113547965,47.02327860612402,0 10.22991408349698,47.02230767647849,0 10.23013309408165,47.02106885047467,0 10.22958332658858,47.01933315114411,0 10.22792006869888,47.01812151504775,0 10.22527568799833,47.01691213048233,0 10.22427416509546,47.01593362862121,0 10.22242576348832,47.01449390758278,0 10.21964071721293,47.01406624983205,0 10.21735991489238,47.01303926240149,0 10.21559681737416,47.01151000120884,0 10.21301330714557,47.0111920402887,0 10.21073049242301,47.00996818287863,0 10.20862412122323,47.00859244350522,0 10.20808422307532,47.00634906484415,0 10.20533145933531,47.0048062445566,0 10.20215900570463,47.00350461140191,0 10.1995622904592,47.00321399917939,0 10.19559561711343,47.00177606501283,0 10.19354153436646,47.00122790470588,0 10.19237376232547,46.99978940975092,0 10.19015283215662,46.9986218366641,0 10.18838227899807,46.99648234444371,0 10.18682496621343,46.99504617269421,0 10.1830698913649,46.99366896344006,0 10.18056626375895,46.99302122897687,0 10.1782912712867,46.99058297694626,0 10.17681892238017,46.98875738465807,0 10.17572330269649,46.98725766315292,0 10.1748763791679,46.98577253403105,0 10.17461882875041,46.98543775814876,0 10.17307437874033,46.98376033286191,0 10.17306921433442,46.98369513744056,0 10.17105186111251,46.98294530892903,0 10.16744405772287,46.98268991520181,0 10.16375378172203,46.98247313639708,0 10.16045501445105,46.983549853847,0 10.1602216050041,46.9838560883446,0 10.15847617176838,46.98353872439903,0 10.15636539542372,46.98398464260168,0 10.15347190920826,46.98501551079849,0 10.15108680352222,46.98461793667389,0 10.14310402489872,46.98419144242795,0 10.13982554295359,46.98383982562117,0 10.13667191248491,46.98285712687822,0 10.13254501180927,46.98221801222768,0 10.12914515047441,46.98022203680663,0 10.12897108366127,46.97910860184539,0 10.13381614751249,46.97809469452652,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Stage3</name>
+				<Placemark>
+					<name>Waegerhus</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.95100218035606</longitude>
+						<latitude>46.76316486441165</latitude>
+						<altitude>0</altitude>
+						<heading>-1.173813807225434</heading>
+						<tilt>37.62971821182328</tilt>
+						<range>2003.868576565532</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.941524390326979,46.76546318811065,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Berghaus Vereina</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.986459680283509</longitude>
+						<latitude>46.81812748909404</latitude>
+						<altitude>0</altitude>
+						<heading>-1.148113559686094</heading>
+						<tilt>26.53841328455926</tilt>
+						<range>3607.850839224594</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness8</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.982498901922041,46.81402960722081,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Novai</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.965097459033579</longitude>
+						<latitude>46.85484046869961</latitude>
+						<altitude>0</altitude>
+						<heading>-1.163677142519477</heading>
+						<tilt>27.09288979630012</tilt>
+						<range>2622.191415669393</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin4</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.962296889990967,46.85194179082522,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Rote Furka</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.0636128036744</longitude>
+						<latitude>46.86479555080972</latitude>
+						<altitude>0</altitude>
+						<heading>-1.09178180193798</heading>
+						<tilt>49.73832056130077</tilt>
+						<range>1292.309397830024</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin4</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.06124466199818,46.86148177392013,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silvretta Haus</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.09942384440688</longitude>
+						<latitude>46.92032892297011</latitude>
+						<altitude>0</altitude>
+						<heading>-1.065588564359704</heading>
+						<tilt>39.59183288534226</tilt>
+						<range>1801.221896626025</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness7</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.09298144047392,46.91793334171248,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Breitspitze</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.10630922018168</longitude>
+						<latitude>46.96133983513913</latitude>
+						<altitude>0</altitude>
+						<heading>-1.060556581289369</heading>
+						<tilt>39.59369408667381</tilt>
+						<range>1818.912277285763</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_flag</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.09926252514258,46.9580412763738,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>P2515</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.10919511883948</longitude>
+						<latitude>46.93447530776193</latitude>
+						<altitude>0</altitude>
+						<heading>-1.058451111712012</heading>
+						<tilt>39.58645205307568</tilt>
+						<range>706.8651598204748</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin22</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.10996683757682,46.93373384617492,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zeinisjoch to Bielerhoehe</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.13433809032846,46.977501176883,0 10.12699473651737,46.97616005852537,0 10.12550486234144,46.97532056297844,0 10.12966977937167,46.97398722638345,0 10.13141911594667,46.97336858326095,0 10.13315638112171,46.97219598565511,0 10.13245159754763,46.97097900975518,0 10.13159291857994,46.96993319881997,0 10.12824060430502,46.96840218354151,0 10.12426456589321,46.96748271846141,0 10.12235677417363,46.96680591289714,0 10.122108887577,46.96550115821704,0 10.12223307364381,46.9634265359665,0 10.122359348826,46.96173169149049,0 10.11812620155636,46.95949100582762,0 10.11145281407219,46.9587851487295,0 10.10771307686368,46.95841548453048,0 10.0994092824532,46.9578780876702,0 10.10489124224203,46.9575503260776,0 10.10563465212259,46.95684468187674,0 10.10395944166144,46.95516126106806,0 10.1018220586012,46.95420595654445,0 10.10182553237409,46.95432116142503,0 10.09905827455554,46.95275107895748,0 10.09515990690936,46.95213554439803,0 10.09297198576508,46.95047465543661,0 10.09117023849422,46.94366928654242,0 10.09049226985228,46.94154769785573,0 10.09199846206043,46.93875656828352,0 10.09735581340884,46.93788895945162,0 10.09969597612772,46.93828328780684,0 10.10422365575444,46.93641372704398,0 10.10843074996643,46.93483452713848,0 10.11055328447036,46.93364808039727,0 10.11064232625097,46.93291486087925,0 10.11074421568918,46.93210091547046,0 10.11022807335647,46.93052869448702,0 10.10979882274813,46.92839627113815,0 10.1082030276764,46.92677103927888,0 10.10548981627026,46.92496592850102,0 10.10294876527052,46.92444744157277,0 10.09753537325313,46.92199034047573,0 10.09598225316301,46.92166396106106,0 10.09666554242988,46.92073641787803,0 10.09649996467503,46.92003744715337,0 10.09426154522312,46.91893200763312,0 10.09183240630249,46.91830500330349,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Cna da Grialetsch</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.957407410571561</longitude>
+						<latitude>46.71269834500064</latitude>
+						<altitude>0</altitude>
+						<heading>-1.169220487905764</heading>
+						<tilt>37.14622082728175</tilt>
+						<range>1098.056769663243</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness7</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.960460609377801,46.71002224971203,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fuorcla da Grialetsch</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.957407410571561</longitude>
+						<latitude>46.71269834500064</latitude>
+						<altitude>0</altitude>
+						<heading>-1.169220487905764</heading>
+						<tilt>37.14622082728175</tilt>
+						<range>1098.056769663243</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin16</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.958183582792516,46.71204511195808,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fuorcla Radoent</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.96910678519367</longitude>
+						<latitude>46.72795795061985</latitude>
+						<altitude>0</altitude>
+						<heading>-1.160704767960622</heading>
+						<tilt>46.39075552484934</tilt>
+						<range>926.8824462822344</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin16</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.968574491875845,46.72692206346773,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Flueelapass</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.952765445647216</longitude>
+						<latitude>46.75446936673575</latitude>
+						<altitude>0</altitude>
+						<heading>-1.172605504516669</heading>
+						<tilt>46.39607691763172</tilt>
+						<range>1749.811571139883</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin16</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.947358962415988,46.75042522428136,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Winterluecke</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>9.959784052659472</longitude>
+						<latitude>46.77264832842808</latitude>
+						<altitude>0</altitude>
+						<heading>-1.167492193596843</heading>
+						<tilt>48.50027191613651</tilt>
+						<range>1699.213357650392</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin16</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.961299080183029,46.7677557502147,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silvretta Huette</name>
+					<LookAt>
+						<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+						<longitude>10.03626814868442</longitude>
+						<latitude>46.85703156220892</latitude>
+						<altitude>0</altitude>
+						<heading>-1.111727173342477</heading>
+						<tilt>42.59854267900384</tilt>
+						<range>1744.734216923493</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness3</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>10.04139749147733,46.85444671343717,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bielerhoehe to Flueelapass</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							10.09171843959671,46.91805188928926,0 10.09027693440282,46.91372250744859,0 10.09021308683303,46.9092116716496,0 10.08721111423129,46.90457882428328,0 10.08492539399898,46.90042097707311,0 10.08219729264133,46.89667438212052,0 10.07608759693441,46.89317023828178,0 10.07361038581641,46.89136972192111,0 10.06782848538736,46.88548066667344,0 10.06246891926924,46.87785527003071,0 10.06176433364698,46.87272060088423,0 10.06054446144329,46.86714166929377,0 10.06051281039497,46.86539800016566,0 10.06150996211174,46.86158970939473,0 10.06234540410297,46.86088077640449,0 10.06294552620826,46.85946024524088,0 10.06087604688311,46.85870210259663,0 10.05817853491554,46.85803133168206,0 10.05063099360772,46.85696671396983,0 10.04566176485643,46.85567825745958,0 10.04102508427479,46.85451294964219,0 10.03543853725894,46.85466771514372,0 10.03066007620937,46.85497227036466,0 10.02554791385891,46.85669480169638,0 10.01813607276124,46.85867539783438,0 10.00675328824019,46.85910607065797,0 9.996339039159965,46.85726258412271,0 9.976686984425672,46.85443617529593,0 9.967337269248077,46.85341176945384,0 9.96150337000071,46.85236730741044,0 9.960201247213377,46.84472793717237,0 9.966516891463693,46.83730734155444,0 9.97065922843333,46.83212071956948,0 9.972705490131975,46.82796312515447,0 9.97679866653899,46.82248167784225,0 9.980961550080591,46.81528007610736,0 9.982658364846845,46.81379775044074,0 9.982686416600785,46.80841337033566,0 9.981804657041257,46.80444786031148,0 9.97926318158747,46.80083629386015,0 9.978841815723369,46.79555643700512,0 9.977605050507471,46.79167593262314,0 9.9752515389373,46.78756022364783,0 9.972883085946728,46.78497271409987,0 9.970510734719124,46.78390081649707,0 9.969447360211756,46.77992653460688,0 9.972212817116031,46.77912597310166,0 9.97472829462604,46.77733739866064,0 9.974326185909197,46.77466988598957,0 9.97160401647449,46.77194949820879,0 9.967650473521294,46.76974208549922,0 9.964161361300629,46.76879027664419,0 9.962025311471873,46.76733173391086,0 9.961364253690599,46.76669381986737,0 9.960053656997527,46.76613869494884,0 9.956209528208738,46.76661045196429,0 9.95409212118912,46.76661126185742,0 9.950236442991223,46.76754880451127,0 9.946415955271117,46.76837821830595,0 9.943976704001747,46.7690622990415,0 9.942014376957889,46.7670367066909,0 9.941251832040159,46.76575585818183,0 9.942376637951631,46.76432653204689,0 9.944069104403697,46.7609938649793,0 9.944744073019596,46.75485828666022,0 9.944508828849832,46.75299486244428,0 9.94676282724768,46.75120101269532,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Flueelapass to Grialetsch</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							9.948261020434931,46.74952094739088,0 9.952216560893747,46.74699832358346,0 9.956645233021828,46.74575455205208,0 9.962155695991875,46.74334303936252,0 9.960576177901553,46.73978477332933,0 9.959514873094415,46.73721710539593,0 9.960529193901662,46.73400806611965,0 9.961083695802078,46.73100314257803,0 9.966160014890718,46.72881251972289,0 9.968428751587147,46.72692552896235,0 9.968793127022892,46.72585392108698,0 9.968045206163726,46.72443414495569,0 9.965317653471402,46.71736758510672,0 9.962204621403178,46.71317862288443,0 9.95986034069576,46.71225912941238,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Stage4</name>
+				<Placemark>
+					<name>Duerrboden to Chamanna da Es-cha</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							9.959152366044417,46.71137412178512,0 9.952997248087838,46.71284432134399,0 9.948618354755522,46.71276957587497,0 9.943659501445406,46.7121226855249,0 9.939842365336728,46.71111386087728,0 9.936707623292307,46.71059192351603,0 9.935174124307991,46.71102928260098,0 9.933476855633126,46.71177701993292,0 9.932112576876859,46.71088022660326,0 9.93107096721106,46.7085973450506,0 9.929077878765396,46.70681816624422,0 9.926811540306774,46.70523359220638,0 9.925118321733844,46.70386692534337,0 9.923811856690454,46.70125795181104,0 9.922311138266604,46.69850457671748,0 9.920478095138019,46.69726531063085,0 9.920212581527561,46.69421251983267,0 9.920849700236012,46.69239738291287,0 9.91900005113523,46.69004681235564,0 9.91973410225256,46.68736869603372,0 9.920108423615005,46.6856581760076,0 9.920662138241635,46.68281620052015,0 9.918073881574225,46.67808845107304,0 9.918243466491575,46.67589285083871,0 9.917556744684175,46.6741702006522,0 9.918229460825447,46.67425786464654,0 9.918183148400452,46.67379806170475,0 9.918858721972416,46.67352104222795,0 9.918454316190434,46.67284715998788,0 9.909866811359738,46.67028999044619,0 9.905233185929546,46.66761315734056,0 9.890296750378573,46.66477173738389,0 9.885034703938313,46.66103884825765,0 9.879214075305732,46.65472043254022,0 9.87913022498137,46.65144289596812,0 9.877014700681951,46.64538118715978,0 9.876347586608107,46.64485955066473,0 9.879103884355549,46.64171604336462,0 9.881845242096958,46.63945423428616,0 9.883898923477473,46.63211668548295,0 9.884945051215627,46.62953848854608,0 9.885152101574025,46.62680392546114,0 9.886961161901286,46.62415633692429,0 9.888589218474163,46.62382685810495,0 9.88954264690107,46.6235239320644,0 9.89120248190863,46.62304036561545,0 9.892737355481549,46.6216408701111,0 9.895026255273752,46.61952703185226,0 9.895463432549032,46.61737850336703,0 9.897690339462983,46.61652152649735,0 9.898923367276275,46.6156578462807,0 9.899937780946999,46.61451796949441,0 9.901946163593628,46.611964323996,0 9.902323604599738,46.61141800899212,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Jenatsch to Bivio</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							9.723961907246125,46.52897698995687,0 9.721433895797366,46.52887797732342,0 9.719869322478164,46.52767611208306,0 9.719651589133472,46.52528577214684,0 9.71930973201194,46.52363122481384,0 9.716146193915915,46.51999810156026,0 9.714823578053323,46.51655011635249,0 9.714221353992265,46.51428052859193,0 9.715249860768711,46.51175627556282,0 9.714769352874237,46.51015937274756,0 9.714407758134826,46.50946496777939,0 9.713573264173514,46.50731924914519,0 9.712216869649835,46.50570086979116,0 9.712108098506722,46.50506623432467,0 9.710865434621549,46.50331633395272,0 9.710100117566739,46.50133397094037,0 9.705203670999555,46.49399692844289,0 9.70373477705294,46.49198456137546,0 9.701013221951458,46.49139666407702,0 9.699239798473089,46.49011978152704,0 9.69764364958297,46.48935329931257,0 9.695540076325667,46.48954127637596,0 9.694114304983177,46.48960057518315,0 9.69151848115267,46.49014572101516,0 9.690128606821165,46.49033257152781,0 9.689126092480162,46.49120401968936,0 9.688116677948063,46.49403995019167,0 9.6852225672366,46.49744862078573,0 9.679881971476672,46.49733933843599,0 9.67577317713431,46.4977044800691,0 9.669022957656331,46.49796954907405,0 9.664675311765089,46.49811215145544,0 9.659120008471129,46.49761485181634,0 9.65559206309797,46.4968008553774,0 9.654425037738982,46.49446658959172,0 9.652722082213225,46.49230786689152,0 9.649590939016404,46.48979954073373,0 9.649814223593431,46.48670405768748,0 9.648957598887941,46.48404128646125,0 9.648017273958979,46.47889735476502,0 9.64902588085784,46.4744383149387,0 9.651479786357999,46.46885092695184,0 9.651268973745793,46.46749793133979,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Es-cha to Chamanna Jenatsch</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							9.90214035118078,46.61151109203565,0 9.899178357982565,46.61131686423008,0 9.897571686246851,46.60992266909951,0 9.89761001647924,46.60980170145951,0 9.896141515009493,46.60811320298445,0 9.892853594369964,46.60755504136043,0 9.89158994166239,46.60650478095587,0 9.890737793838246,46.60451633948347,0 9.891627488396214,46.60199047079718,0 9.893296152873408,46.60034908991398,0 9.894817046751145,46.5985171296303,0 9.894579379014095,46.59742229374629,0 9.894536230487343,46.595983279405,0 9.890562074787017,46.59461418037331,0 9.88767148114691,46.59284547507535,0 9.880749644346675,46.59157521275187,0 9.877606622363619,46.59132125976515,0 9.873264008999714,46.58920629961631,0 9.870041258541814,46.58857777319945,0 9.863331828999303,46.58773702655739,0 9.857494777394763,46.58658038491093,0 9.853112913044516,46.58559336320615,0 9.84081431384541,46.58334645179816,0 9.837013190840135,46.58183801260682,0 9.831214249080713,46.57981551667216,0 9.8270321090121,46.57922914212233,0 9.820005321602663,46.57886649660505,0 9.816666723163955,46.57777726807348,0 9.813709078759567,46.57670633212703,0 9.811814964082604,46.57564325127363,0 9.812538635996656,46.57547813296981,0 9.811611176538143,46.57482898988738,0 9.81054100067122,46.57343466192751,0 9.809181360472492,46.5727207869998,0 9.807619234238146,46.57224913814179,0 9.804933117814855,46.57129309973033,0 9.804038800581207,46.57118095282758,0 9.801755363198851,46.5708396618952,0 9.800446994944672,46.57004412095304,0 9.795678840796596,46.56896255420283,0 9.794922196161888,46.567936684159,0 9.796564192760497,46.56681736906451,0 9.797154593805431,46.56594265166729,0 9.796999646261535,46.5650450599104,0 9.798769320049166,46.56374280008399,0 9.799365360718607,46.56368523116861,0 9.799993592560774,46.563732343167,0 9.799790159367504,46.5633945138631,0 9.800451822464776,46.56366833080636,0 9.800423509548384,46.56350309375165,0 9.801342371160542,46.56356998742828,0 9.80220066799189,46.5635771435403,0 9.802513375775316,46.56358418217888,0 9.803640124690807,46.56330123922902,0 9.803434931850628,46.56316129019728,0 9.80472124739217,46.56322553193199,0 9.804604727835486,46.56299328529764,0 9.805510223601853,46.56291394834921,0 9.806854179924064,46.56303027247118,0 9.807685057189495,46.56296648547544,0 9.809027566446638,46.56287370798943,0 9.809920693666697,46.56288904982333,0 9.81067465001683,46.56263763153137,0 9.811387629248324,46.56205069356471,0 9.807176397750965,46.56147572450852,0 9.803392893799828,46.56033202555279,0 9.801271886035765,46.55942476229453,0 9.797701193586327,46.55823237046841,0 9.795264731623423,46.55647932139802,0 9.789700908309714,46.55438912125818,0 9.786010617947444,46.55284139520447,0 9.784925850374215,46.5516206476871,0 9.778995586634283,46.54926837273854,0 9.776591079369425,46.54986893952071,0 9.774444906534637,46.54920158400683,0 9.770486822428865,46.54785097633866,0 9.770501538144332,46.54690782237474,0 9.769492430761916,46.5471092512229,0 9.768215321519918,46.54702907445802,0 9.765688797892507,46.54651813270837,0 9.764267591900415,46.54564323840183,0 9.762061482840224,46.54484421868819,0 9.758839163813915,46.54471687143658,0 9.756703308811494,46.54394812955129,0 9.755690279454875,46.54311029364036,0 9.75375582465251,46.54186284565841,0 9.753002885988533,46.54037804781946,0 9.749804025199538,46.53823398409466,0 9.747898857809709,46.53606582588456,0 9.747901892160639,46.53605402483696,0 9.747244406863773,46.53493196498848,0 9.745716305350767,46.53356277953397,0 9.740998977620965,46.52946803829787,0 9.736563668248511,46.52602764170629,0 9.734767644196049,46.52562373897594,0 9.732799369761452,46.52543152685922,0 9.731348452783868,46.52587753635341,0 9.731528059044711,46.52605372702241,0 9.730587697431174,46.52632983021424,0 9.729853435961948,46.52687296782108,0 9.728643807512823,46.52702793739753,0 9.728752483312142,46.52736267153046,0 9.728340845150464,46.52772984519147,0 9.728060169372664,46.52854486737625,0 9.727609012323587,46.52892340266717,0 9.725922222879584,46.5295057623684,0 9.725031255325209,46.52996628342883,0 9.724566998447987,46.52927655773253,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Fuorcla Gualdauna</name>
+					<LookAt>
+						<longitude>9.895704458456226</longitude>
+						<latitude>46.60344414980491</latitude>
+						<altitude>0</altitude>
+						<heading>-8.189808006649562</heading>
+						<tilt>49.50518488219172</tilt>
+						<range>1417.698050247022</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.89543569181726,46.59727258119611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Duerrboden Cutoff</name>
+					<LookAt>
+						<longitude>9.928442903857762</longitude>
+						<latitude>46.71531160928111</latitude>
+						<altitude>0</altitude>
+						<heading>-8.166012453283299</heading>
+						<tilt>50.83491390753129</tilt>
+						<range>1686.283585713918</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.9344739923521,46.71136598219748,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chamanna da Es-cha</name>
+					<LookAt>
+						<longitude>9.904217515778843</longitude>
+						<latitude>46.61250682152711</latitude>
+						<altitude>0</altitude>
+						<heading>-1.445624291388938</heading>
+						<tilt>44.85998315463746</tilt>
+						<range>1479.054246066923</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.902634640665461,46.61149940236056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Albula Pass</name>
+					<LookAt>
+						<longitude>9.840703760825171</longitude>
+						<latitude>46.58508154733779</latitude>
+						<altitude>0</altitude>
+						<heading>-1.491934849573711</heading>
+						<tilt>21.47975324793848</tilt>
+						<range>3113.200403381038</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin11</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.837270238659606,46.58221390535919,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Porta da Es</name>
+					<LookAt>
+						<longitude>9.893173145916988</longitude>
+						<latitude>46.62575420944111</latitude>
+						<altitude>0</altitude>
+						<heading>-1.453888728676884</heading>
+						<tilt>31.68495345439921</tilt>
+						<range>2201.364128603173</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin12</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.888271928986338,46.62381755917814,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Scalettapass</name>
+					<LookAt>
+						<longitude>9.924716892276287</longitude>
+						<latitude>46.69098283167376</latitude>
+						<altitude>0</altitude>
+						<heading>-1.432306885036834</heading>
+						<tilt>29.96290575092977</tilt>
+						<range>2475.43594828006</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.920153403473025,46.69245438956724,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chamanna Kesch</name>
+					<LookAt>
+						<longitude>9.881080895394506</longitude>
+						<latitude>46.65284577749753</latitude>
+						<altitude>0</altitude>
+						<heading>-1.464006544563558</heading>
+						<tilt>32.82574324983009</tilt>
+						<range>3935.915468249871</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.875683578595712,46.64496505367261,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Alp Funtauna</name>
+					<LookAt>
+						<longitude>9.921942620707135</longitude>
+						<latitude>46.6758070206584</latitude>
+						<altitude>0</altitude>
+						<heading>-1.434300603349337</heading>
+						<tilt>43.73805769718435</tilt>
+						<range>2493.213515103364</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin12</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.919073692738184,46.67248057588192,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fuorcla Crap Alv</name>
+					<LookAt>
+						<longitude>9.798226660156205</longitude>
+						<latitude>46.56539545059872</latitude>
+						<altitude>0</altitude>
+						<heading>-1.522780430503108</heading>
+						<tilt>32.62614365357224</tilt>
+						<range>2370.546929979549</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin11</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.797650544444467,46.56569627221907,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fuorcla d&apos;Agnel</name>
+					<LookAt>
+						<longitude>9.712531325108587</longitude>
+						<latitude>46.509783954983</latitude>
+						<altitude>0</altitude>
+						<heading>-8.322811203126857</heading>
+						<tilt>39.1165189630844</tilt>
+						<range>1293.484402807057</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin11</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.714948892807499,46.51034403643898,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Alp Natons</name>
+					<LookAt>
+						<longitude>9.661451268827268</longitude>
+						<latitude>46.49665323050569</latitude>
+						<altitude>0</altitude>
+						<heading>-8.359861168791175</heading>
+						<tilt>32.00817101078687</tilt>
+						<range>4531.150671865352</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin9</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.652096878897588,46.49298818117266,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fuorcla Leget</name>
+					<LookAt>
+						<longitude>9.694249697926274</longitude>
+						<latitude>46.49233251802458</latitude>
+						<altitude>0</altitude>
+						<heading>-8.336072082170551</heading>
+						<tilt>32.0028881405226</tilt>
+						<range>3268.640369678768</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin9</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.694225824138908,46.48991996724185,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chamanna Jenatsch</name>
+					<LookAt>
+						<longitude>9.725629219000405</longitude>
+						<latitude>46.52752346855733</latitude>
+						<altitude>0</altitude>
+						<heading>-8.313310355757102</heading>
+						<tilt>47.97989493068722</tilt>
+						<range>910.7338100062751</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness1</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.724392590922186,46.52938307486711,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bivio</name>
+					<LookAt>
+						<longitude>9.653816466128935</longitude>
+						<latitude>46.47794388810114</latitude>
+						<altitude>0</altitude>
+						<heading>-8.365398648963577</heading>
+						<tilt>32.01071522933132</tilt>
+						<range>5065.859545159627</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness4</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.650640945895708,46.46785320803928,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Stage5</name>
+				<Placemark>
+					<name>Livio</name>
+					<LookAt>
+						<longitude>9.308182332070709</longitude>
+						<latitude>46.17996860164839</latitude>
+						<altitude>0</altitude>
+						<heading>-8.617348948428896</heading>
+						<tilt>38.5811371967939</tilt>
+						<range>6184.554218134448</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness2</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.304316118732851,46.16847613810217,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Passo Correggia</name>
+					<LookAt>
+						<longitude>9.259495425168296</longitude>
+						<latitude>46.24292654021863</latitude>
+						<altitude>0</altitude>
+						<heading>-8.652497633820397</heading>
+						<tilt>38.57112948929778</tilt>
+						<range>4066.036597584204</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin14</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.256004396718335,46.23238263746521,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bivio to Gravedona</name>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							9.651250343188575,46.4659769459579,0 9.655928030180245,46.45758360845667,0 9.656380434115219,46.44790055623758,0 9.656864265091404,46.4424835583036,0 9.648126857901421,46.43143280922943,0 9.643432510430054,46.42579319399952,0 9.637741062005444,46.41989204951238,0 9.636944764294475,46.41456270283562,0 9.63706818978862,46.40541850815933,0 9.639553673674566,46.40317317657229,0 9.637626861330588,46.39866259913057,0 9.63472023369299,46.39664583385453,0 9.626287736686749,46.39129454312317,0 9.61155523166318,46.38938029624791,0 9.603738552094264,46.38937471829757,0 9.596831685135216,46.38700553968393,0 9.591265772310022,46.38610882091508,0 9.583473863470573,46.38496012606102,0 9.574971768296523,46.38099801194675,0 9.566341538427778,46.37858761214044,0 9.560307144519678,46.37474022253131,0 9.556754553679811,46.37134508652466,0 9.556239500563734,46.36961194386888,0 9.556812922961718,46.36933056862816,0 9.558570719377844,46.36904131799658,0 9.56069009482926,46.36861655261225,0 9.559836396872734,46.36798667888588,0 9.559655012725592,46.36618776466989,0 9.55702032092902,46.36529130858447,0 9.554624827681675,46.36519280711759,0 9.549785287699555,46.36452983932939,0 9.54541291622933,46.36287797583619,0 9.546670133306295,46.36142642348117,0 9.548059682543988,46.36045853342068,0 9.548045131996041,46.36050837297482,0 9.550053010445907,46.35996704012756,0 9.551621938238132,46.35846084943662,0 9.550040753539577,46.35491080495382,0 9.546202766178375,46.35241317111519,0 9.545520163983587,46.3501340593327,0 9.545346219705506,46.34904814111456,0 9.548167493814059,46.3469626763322,0 9.546015985540919,46.34492697366222,0 9.542052235984679,46.34409052281165,0 9.535348254418958,46.34477440683342,0 9.53741339024938,46.34297099083605,0 9.535025471838274,46.34042081588662,0 9.527826097163199,46.33709450381112,0 9.515469849382065,46.33403959110471,0 9.50796331867606,46.33225514043428,0 9.480082724364834,46.32984177125434,0 9.465165806864915,46.32726472331688,0 9.445213162264066,46.3276613222265,0 9.429894571638926,46.32677167665099,0 9.413063069887928,46.32758921543099,0 9.403102122514595,46.32358943363455,0 9.392870741396724,46.31517087274079,0 9.380112878891474,46.30477676012018,0 9.376794474402539,46.30075185471282,0 9.372016923274249,46.2950927434111,0 9.36792402921176,46.28688664147613,0 9.363643704940978,46.28042365016414,0 9.356575268022979,46.27872961429036,0 9.350284781780161,46.27776437111891,0 9.339642538060929,46.27402802935112,0 9.330825781751331,46.26987031836171,0 9.321361695327841,46.27028591886853,0 9.311429960198051,46.27095949982409,0 9.285586778154363,46.26906452189005,0 9.275104565525949,46.26207197417794,0 9.264860421498849,46.25282460677877,0 9.261035796256119,46.24401552767252,0 9.260980015683378,46.24417407021131,0 9.259562527094511,46.24037566415468,0 9.255407162790943,46.23660555142793,0 9.254221125849764,46.23417969427326,0 9.255568421984721,46.23268358569926,0 9.254438636538964,46.23029893131619,0 9.254117745572465,46.22836867861723,0 9.255027772580176,46.22614004096486,0 9.259048771722327,46.22310944651171,0 9.262562205253337,46.21849624880701,0 9.26587142191709,46.21717234218723,0 9.271442571099794,46.21831111895873,0 9.280210127086615,46.21897956538553,0 9.286741096489999,46.2182206406823,0 9.295751264669995,46.21529023804472,0 9.298979338141624,46.21216100107026,0 9.296437249991182,46.20594741908289,0 9.29980626877815,46.19664656108737,0 9.304606598891038,46.19324595396012,0 9.31092029662225,46.18883242188613,0 9.311040469373859,46.18419604907716,0 9.307898782839054,46.17074246871446,0 9.303320989495777,46.16550018287974,0 9.315852923591608,46.1633810107753,0 9.32088118977987,46.16089098396728,0 9.315041400960094,46.1529632445613,0 9.313370984517626,46.15083392199762,0 9.310175544364105,46.14897102392585,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Passo Duana</name>
+					<LookAt>
+						<longitude>9.562728114275586</longitude>
+						<latitude>46.37694685518298</latitude>
+						<altitude>0</altitude>
+						<heading>-8.433779882166796</heading>
+						<tilt>49.60522866722501</tilt>
+						<range>3924.196774099305</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.555631478711708,46.37040860765833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pass da Sett</name>
+					<LookAt>
+						<longitude>9.646310468355068</longitude>
+						<latitude>46.42405183406601</latitude>
+						<altitude>0</altitude>
+						<heading>-8.373262404558373</heading>
+						<tilt>49.61232224452133</tilt>
+						<range>4961.607578313219</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.636764170060728,46.41810562329434,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Soglio</name>
+					<LookAt>
+						<longitude>9.555400451728845</longitude>
+						<latitude>46.35255048787702</latitude>
+						<altitude>0</altitude>
+						<heading>-8.439072727142866</heading>
+						<tilt>49.62647292492499</tilt>
+						<range>7030.442995197638</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness6</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.539033323561512,46.34181140067231,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>San Vittore</name>
+					<LookAt>
+						<longitude>9.394894643338203</longitude>
+						<latitude>46.32719233788183</latitude>
+						<altitude>0</altitude>
+						<heading>-8.554919664469885</heading>
+						<tilt>49.18874687813683</tilt>
+						<range>21810.01740584989</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness6</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.379520987377092,46.30090888996566,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gravedona</name>
+					<LookAt>
+						<longitude>9.316710372847464</longitude>
+						<latitude>46.1526190818307</latitude>
+						<altitude>0</altitude>
+						<heading>-8.611209836673821</heading>
+						<tilt>54.08361640404095</tilt>
+						<range>3577.11422620432</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_homegardenbusiness6</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.307736141404535,46.14794357292873,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
 		</Folder>
 	</Folder>
 </Document>
