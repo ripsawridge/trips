@@ -1,0 +1,67 @@
+%% environment-book - environment file for the quicksilver project
+\startenvironment environment-book
+
+\setupexternalfigures[directory={
+    introduction/images,
+    stage0/images,
+    stage1/images,
+    stage2/images,
+    stage3/images,
+    stage4/images,
+    stage5/images,
+    afterward/images}]
+
+\setupwhitespace[medium]
+\setupbodyfont[palatino,11pt]
+
+\setuppapersize[A5][A5]
+
+% Setup headings
+% \setupheads			[sectionnumber=no, align=right,
+%				page=right, style=\bf, tolerance=verytolerant]
+% \setuphead			[part]
+% 				[style={\ss\bfc}, page=yes, number=yes,
+% 				frame=off, placehead=yes, align=right,
+%				before={},
+%				after=\blank, header=empty]
+% \setuphead			[chapter]
+% 				[style={\ss\bfb}, header=empty, page=no,
+% 				before={\vfil\blank}, after={}, align=right]
+% \setuphead			[title][chapter]
+% \setuphead			[subject]
+% 				[style={\ss\bf}, before=\blank, after=\blank]
+
+\setupheader			[text][state=stop]
+\setupheadertexts		[][chapter][part][]
+\setupheader			[leftwidth=.8\hsize, rightwidth=.8\hsize]
+\setupbackgrounds		[header][text][frame=off, bottomframe=off]
+
+\setuppagenumbering		[alternative=doublesided,
+				partnumber=no, sectionnumber=no, way=bytext,
+				location={text,footer,right}]
+\setuppagenumber		[state=start]
+
+\setupindenting                 [yes,medium]
+
+\setupexternalfigures           [frame=on]
+% \setuppagenumbering[location=footer, way=bytext]
+% \setupheadertexts[2004 Trips][Mount Stuart][2004 Trips][The North Ridge]
+
+
+% My own definitions
+
+\define[3]\trfigure
+  {\placefigure
+    [][fig:#1]
+    {#2}
+    {\externalfigure[#3][width=0.98\makeupwidth]}}
+
+% trfigure for portrait mode, shouldn't be so big
+\define[3]\trfigurep
+  {\placefigure
+    [][fig:#1]
+    {#2}
+    {\externalfigure[#3][width=0.75\makeupwidth]}}
+
+\stopenvironment
+

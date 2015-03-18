@@ -1,0 +1,103 @@
+\startproduct product-quicksilver-book
+\project project-quicksilver
+
+\startfrontmatter
+  \noheaderandfooterlines
+
+  % Title page
+  \dontleavehmode
+  \blank[4cm]
+  \startalignment[center]
+    \ssd Quicksilver \par
+    \ssc From Munich to Lake Como
+  \stopalignment
+  \blank[6cm]
+  \startalignment[flushright]
+    \dontleavehmode
+    \ssb
+    \bTABLE
+    \setupTABLE[r][each][frame=off]
+    \bTR \bTD Michael V. Stanton \eTD \eTR
+    \eTABLE
+  \stopalignment
+  \page
+
+  % copyright
+  \noheaderandfooterlines
+  \dontleavehmode
+  \blank[9cm]
+  \noindenting
+  All rights reserved. No part of this publication may be reproduced,
+  stored in a retrieval system, or transmitted in any form or by any
+  means, electronic, mechanical, photocopying, recording or otherwise,
+  without prior written permission of the publisher. \par
+ 
+  Copyright 2015 Michael V. Stanton, Bruderstrasse 8, 80538
+  Munich, Germany. Published with Lulu.com.\par
+
+  Email: \type{ripsawridge@gmail.com}
+  \par
+
+  Web: \type{http://www.mountainwerks.org/}
+  \par
+  \page 
+
+  % Table of contents
+  \completecontent
+
+  % Introduction
+  \chapter{Introduction}
+  
+  By the year 2000, I was practically dreaming about the deep forests
+  and glaciers of the Cascades every night. After one of the wettest
+  winters on record, I discovered the benefits of travelling east to
+  find sun. Leavenworth became one of my favorite places to
+  climb. Steve Nesland joined me on most trips, including the
+  memorable climb of Prusik Peak with Jack and Peter as well. Our trip
+  to the Tetons was the centerpiece of the summer, and provided hours
+  of dreamlike climbing in the warm Wyoming sun. 
+
+  Kris joined me for some great rock climbing trips, which gave us the
+  confidence to plan our Italian Dolomites trip for 2001. 
+
+  \startalignment[flushright]
+  {\em Michael Stanton} \par
+  {\em Munich, 2015}
+  \stopalignment
+
+\stopfrontmatter
+
+\startbodymatter
+
+  \component introduction/introduction.tex
+  \component stage0/stage0.tex
+  \component stage1/stage1.tex
+  \component stage2/stage2.tex
+  \component stage3/stage3.tex
+  \component stage4/stage4.tex
+  \component stage5/stage5.tex
+  \component afterward/afterward.tex
+
+\stopbodymatter
+
+\startbackmatter
+
+  % Index
+  \completeindex
+
+  % about the author
+  \title{About the Author}
+  
+  Michael Stanton is a software engineer living in Munich, Germany.
+  He discovered rock and mountain climbing in the Cascades of Washington
+  State, and has been obsessed ever since. 
+
+  \title{Colophon}
+
+  This book was created with \TEX\ and \CONTEXT\ on a MacBook.
+  Emacs was used to edit the files. The typeface is Palantino 11 point.
+
+\stopbackmatter
+
+\stopproduct
+

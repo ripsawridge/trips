@@ -1,0 +1,56 @@
+info about creating a cover for lulu.com
+
+My page dimensions are A5 (148.17 mm by 209.9 mm)
+My spine for a 233 page book is 14.8 mm
+Lulu wants a cover PDF with dimensions (317.84 mm by 215.98 mm)
+
+from left to right that is (bleed, back page, spine, front page, bleed)
+from top to bottom that is (bleed, pages, bleed)
+
+The bleed sizes on the left and right are 3.35 mm.
+The bleed sizes on the top and bottom are 3.04 mm.
+
+The uploaded PDF file must be at 300 DPI, and RGB color.
+
+For a cover, I have chosen background color RGB (72, 38, 28).
+Foreground text color RGB (223, 205, 195).
+
+For large font I chose Copperplate Gothic Bold.
+For body text on the back I chose Palatino Linotype.
+
+My cover document includes guides that can be re-used in new cover documents.
+If the format remains A5, then the only thing that may change is the size of the spine.
+
+
+Cover document schematic:
+
+----------------------------------------------------------------   1
+|  |     bleed top            |   |                         |  |
+|--|--------------------------|---|-------------------------|--|   2
+| b|                          | s |                         |  |
+| l|                          | p |                         |  |
+| e|    back page             | i |     front page          |  |
+| e|                          | n |                         |  |
+| d|                          | e |                         |  |
+|  |                          |   |                         |  |
+|--|--------------------------|---|-------------------------|--|   3
+|  |    bleed bottom          |   |                         |  |
+----------------------------------------------------------------   4
+1  2                          3   4                         5  6
+
+
+Going across, the point locations are:
+1 - 0 mm
+2 - 3.35 mm
+3 - 151.52 mm
+4 - 166.32 mm
+5 - 314.49 mm
+6 - 317.84 mm
+
+Going down, the point locations are:
+1 - 0 mm
+2 - 3.04 mm
+3 - 212.94 mm
+4 - 215.98 mm
+
+
