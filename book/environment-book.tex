@@ -33,7 +33,7 @@
 
 \setupheader			[text][state=stop]
 \setupheadertexts		[][chapter][part][]
-\setupheader			[leftwidth=.8\hsize, rightwidth=.8\hsize]
+\setupheader			[leftwidth=.95\hsize, rightwidth=.9\hsize]
 \setupbackgrounds		[header][text][frame=off, bottomframe=off]
 
 \setuppagenumbering		[alternative=doublesided,
@@ -54,14 +54,14 @@
   {\placefigure
     [][fig:#1]
     {#2}
-    {\externalfigure[#3][width=0.98\makeupwidth]}}
+    {\externalfigure[#3][width=\makeupwidth]}}
 
 % trfigure for portrait mode, shouldn't be so big
 \define[3]\trfigurep
   {\placefigure
     [][fig:#1]
     {#2}
-    {\externalfigure[#3][width=0.75\makeupwidth]}}
+    {\externalfigure[#3][width=0.85\makeupwidth]}}
 
 \stopenvironment
 
