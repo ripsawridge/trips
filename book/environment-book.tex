@@ -1,6 +1,5 @@
 %% environment-book - environment file for the quicksilver project
 \startenvironment environment-book
-
 \setupexternalfigures[directory={
     introduction/images,
     stage0/images,
@@ -15,6 +14,10 @@
 \setupbodyfont[palatino,11pt]
 
 \setuppapersize[A5][A5]
+
+\setuplayout[backspace=10mm,
+width=120mm,
+topspace=10mm]
 
 % Setup headings
 % \setupheads			[sectionnumber=no, align=right,
@@ -64,4 +67,3 @@
     {\externalfigure[#3][width=0.85\makeupwidth]}}
 
 \stopenvironment
-
