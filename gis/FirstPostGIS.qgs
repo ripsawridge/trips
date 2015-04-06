@@ -24,7 +24,7 @@
         <layer-tree-layer expanded="0" checked="Qt::Checked" id="planet_osm_polygon_copy20150315142835508" name="Lakes">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="0" checked="Qt::Checked" id="towns20150315110348867" name="towns">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="towns20150315110348867" name="towns">
             <customproperties/>
         </layer-tree-layer>
         <layer-tree-layer expanded="0" checked="Qt::Checked" id="planet_osm_point20150314123111098" name="planet_osm_point">
@@ -57,7 +57,7 @@
         <layer-tree-layer expanded="0" checked="Qt::Checked" id="planet_osm_polygon20150314132440292" name="planet_osm_polygon">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-group expanded="1" checked="Qt::Checked" name="Relief">
+        <layer-tree-group expanded="0" checked="Qt::Checked" name="Relief">
             <customproperties/>
             <layer-tree-group expanded="1" checked="Qt::Checked" name="Contours">
                 <customproperties/>
@@ -86,10 +86,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>9.09792935234592726</xmin>
-            <ymin>46.06818838680515427</ymin>
-            <xmax>9.57112421658206181</xmax>
-            <ymax>46.37265508957437277</ymax>
+            <xmin>9.56337705374759395</xmin>
+            <ymin>46.41550753936608942</ymin>
+            <xmax>10.20404167291443187</xmax>
+            <ymax>46.87083474618135881</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -114,8 +114,8 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3035" srcDatumTransform="-1" destDatumTransform="-1" layerid="eudem_relief20150329160059984"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="planet_osm_polygon20150314132440292"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="planet_osm_point20150314123111098"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="StageTwoRoute20150315135041993"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="StageThreeAtlas_copy20150405201059073"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="StageTwoRoute20150315135041993"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="planet_osm_line20150314150525215"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="blah20150329151853642"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="contour20150314144922854"/>
@@ -136,9 +136,9 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="contour20150314144922861"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="n46e011_relief20150314164242881"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="N47E01020150314134148637"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="StageFourAtlas_copy20150405202219574"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="contour20150314144922867"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="N46E01020150314133826599"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="StageFourAtlas_copy20150405202219574"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="StageThreeRoute20150315135041982"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="towns20150315110348867"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="N45E01020150314134400466"/>
@@ -221,8 +221,8 @@
                 <legendlayerfile isInOverview="0" layerid="planet_osm_polygon_copy20150315142835508" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="towns" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="towns" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="towns20150315110348867" visible="1"/>
             </filegroup>
         </legendlayer>
@@ -273,7 +273,7 @@
                 <legendlayerfile isInOverview="0" layerid="planet_osm_polygon20150314132440292" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendgroup open="true" checked="Qt::Checked" name="Relief">
+        <legendgroup open="false" checked="Qt::Checked" name="Relief">
             <legendgroup open="true" checked="Qt::Checked" name="Contours">
                 <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="eudem-contour-50" showFeatureCount="0">
                     <filegroup open="true" hidden="false">
@@ -577,7 +577,7 @@
                     <prop k="style" v="solid"/>
                 </layer>
             </symbol>
-            <ComposerScaleBar segmentMillimeters="14.8627" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Line Ticks Up" unitLabel="km" lineCapStyle="square" font=".Lucida Grande UI,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
+            <ComposerScaleBar segmentMillimeters="14.2145" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Line Ticks Up" unitLabel="km" lineCapStyle="square" font=".Lucida Grande UI,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
                 <fillColor alpha="255" red="0" blue="0" green="0"/>
                 <fillColor2 alpha="255" red="255" blue="255" green="255"/>
                 <strokeColor alpha="255" red="0" blue="0" green="0"/>
@@ -663,7 +663,7 @@
                     <prop k="style" v="solid"/>
                 </layer>
             </symbol>
-            <ComposerScaleBar segmentMillimeters="14.7906" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Line Ticks Up" unitLabel="km" lineCapStyle="square" font=".Lucida Grande UI,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
+            <ComposerScaleBar segmentMillimeters="14.2145" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Line Ticks Up" unitLabel="km" lineCapStyle="square" font=".Lucida Grande UI,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
                 <fillColor alpha="255" red="0" blue="0" green="0"/>
                 <fillColor2 alpha="255" red="255" blue="255" green="255"/>
                 <strokeColor alpha="255" red="0" blue="0" green="0"/>
@@ -749,12 +749,12 @@
                     <prop k="style" v="solid"/>
                 </layer>
             </symbol>
-            <ComposerScaleBar segmentMillimeters="14.7276" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Line Ticks Up" unitLabel="km" lineCapStyle="square" font=".Lucida Grande UI,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
+            <ComposerScaleBar segmentMillimeters="14.2145" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Line Ticks Up" unitLabel="km" lineCapStyle="square" font=".Lucida Grande UI,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
                 <fillColor alpha="255" red="0" blue="0" green="0"/>
                 <fillColor2 alpha="255" red="255" blue="255" green="255"/>
                 <strokeColor alpha="255" red="0" blue="0" green="0"/>
                 <textColor alpha="255" red="0" blue="0" green="0"/>
-                <ComposerItem pagey="184.879" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="58.7843" y="184.879" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="73.2683" outlineWidth="0.3" excludeFromExports="0" uuid="{a804a9cb-ba77-4b07-92fc-f46779f8dab4}" height="15.2705" itemRotation="0" frame="false" pagex="58.7843">
+                <ComposerItem pagey="184.879" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="58.7843" y="184.879" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="71.2157" outlineWidth="0.3" excludeFromExports="0" uuid="{a804a9cb-ba77-4b07-92fc-f46779f8dab4}" height="15.2705" itemRotation="0" frame="false" pagex="58.7843">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -8136,7 +8136,7 @@
                 </edittype>
             </edittypes>
         </maplayer>
-        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+06" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="1" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="0" maximumScale="1e+06" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="1" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>towns20150315110348867</id>
             <datasource>dbname='MunichComo' host=localhost port=5432 user='postgres' password='postgres' sslmode=disable key='gid' table="(select * from public.planet_osm_point where place='city' or place='town' or place='village'
 )" (way) sql=</datasource>
@@ -8159,7 +8159,7 @@
                 </spatialrefsys>
             </srs>
             <provider encoding="System">postgres</provider>
-            <previewExpression></previewExpression>
+            <previewExpression>COALESCE( "addr:housename", '&lt;NULL>' )</previewExpression>
             <vectorjoins/>
             <expressionfields/>
             <edittypes>
@@ -8380,7 +8380,7 @@
             <renderer-v2 symbollevels="0" type="RuleRenderer">
                 <rules key="{55277a8f-1cb9-4550-9f53-8ce00ab39c54}">
                     <rule key="{08f0444d-c679-4743-8b76-07f8f890a877}" label="city">
-                        <rule scalemaxdenom="25000" key="{5a3792bb-55fe-442b-969c-2ee351036146}" symbol="0" label="0 - 25000"/>
+                        <rule scalemaxdenom="50000" key="{5a3792bb-55fe-442b-969c-2ee351036146}" symbol="0" label="0 - 25000"/>
                         <rule scalemaxdenom="50000" filter="toint(population) > 500" key="{196e5f62-bca9-4a30-a5fb-ed6eb265cde8}" symbol="1" scalemindenom="25000" label="25000 - 50000"/>
                         <rule scalemaxdenom="100000" filter="toint(population) > 1000" key="{286def68-b72b-4e0d-a940-09f31cfe67f4}" symbol="2" scalemindenom="50000" label="50000 - 100000"/>
                         <rule scalemaxdenom="250000" filter="toint(population) > 2500" key="{c7e3a80e-a33c-4445-9d70-fa852d2bb8fb}" symbol="3" scalemindenom="100000" label="100000 - 250000"/>
